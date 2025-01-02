@@ -1,35 +1,71 @@
 @font-face {
     font-family: "MesloLGSDZ Nerd Font Mono";
-    src:    local(Meslo LG S DZ Bold Italic Nerd Font Complete Mono),
-            url("fonts/Meslo LG S DZ Bold Italic Nerd Font Complete Mono.woff2") format("woff2"),
-            url("fonts/Meslo LG S DZ Bold Italic Nerd Font Complete Mono.ttf") format("truetype");
+    src:    local(MesloLGSDZNerdFontMono-BoldItalic),
+            url("fonts/MesloLGSDZNerdFontMono-BoldItalic.woff2") format("woff2"),
+            url("fonts/MesloLGSDZNerdFontMono-BoldItalic.ttf") format("truetype");
     font-stretch: normal;
     font-style: italic;
     font-weight: 700;
 }
 @font-face {
     font-family: "MesloLGSDZ Nerd Font Mono";
-    src:    local(Meslo LG S DZ Bold Nerd Font Complete Mono),
-            url("fonts/Meslo LG S DZ Bold Nerd Font Complete Mono.woff2") format("woff2"),
-            url("fonts/Meslo LG S DZ Bold Nerd Font Complete Mono.ttf") format("truetype");
+    src:    local(MesloLGSDZNerdFontMono-Bold),
+            url("fonts/MesloLGSDZNerdFontMono-Bold.woff2") format("woff2"),
+            url("fonts/MesloLGSDZNerdFontMono-Bold.ttf") format("truetype");
     font-stretch: normal;
     font-style: normal;
     font-weight: 700;
 }
 @font-face {
     font-family: "MesloLGSDZ Nerd Font Mono";
-    src:    local(Meslo LG S DZ Italic Nerd Font Complete Mono),
-            url("fonts/Meslo LG S DZ Italic Nerd Font Complete Mono.woff2") format("woff2"),
-            url("fonts/Meslo LG S DZ Italic Nerd Font Complete Mono.ttf") format("truetype");
+    src:    local(MesloLGSDZNerdFontMono-Italic),
+            url("fonts/MesloLGSDZNerdFontMono-Italic.woff2") format("woff2"),
+            url("fonts/MesloLGSDZNerdFontMono-Italic.ttf") format("truetype");
     font-stretch: normal;
     font-style: italic;
     font-weight: 400;
 }
 @font-face {
     font-family: "MesloLGSDZ Nerd Font Mono";
-    src:    local(Meslo LG S DZ Regular Nerd Font Complete Mono),
-            url("fonts/Meslo LG S DZ Regular Nerd Font Complete Mono.woff2") format("woff2"),
-            url("fonts/Meslo LG S DZ Regular Nerd Font Complete Mono.ttf") format("truetype");
+    src:    local(MesloLGSDZNerdFontMono-Regular),
+            url("fonts/MesloLGSDZNerdFontMono-Regular.woff2") format("woff2"),
+            url("fonts/MesloLGSDZNerdFontMono-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MesloLGSDZ Nerd Font Mono";
+    src:    local(MesloLGSDZNerdFontMono-BoldItalic),
+            url("fonts/MesloLGSDZNerdFontMono-BoldItalic.woff2") format("woff2"),
+            url("fonts/MesloLGSDZNerdFontMono-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MesloLGSDZ Nerd Font Mono";
+    src:    local(MesloLGSDZNerdFontMono-Bold),
+            url("fonts/MesloLGSDZNerdFontMono-Bold.woff2") format("woff2"),
+            url("fonts/MesloLGSDZNerdFontMono-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MesloLGSDZ Nerd Font Mono";
+    src:    local(MesloLGSDZNerdFontMono-Italic),
+            url("fonts/MesloLGSDZNerdFontMono-Italic.woff2") format("woff2"),
+            url("fonts/MesloLGSDZNerdFontMono-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MesloLGSDZ Nerd Font Mono";
+    src:    local(MesloLGSDZNerdFontMono-Regular),
+            url("fonts/MesloLGSDZNerdFontMono-Regular.woff2") format("woff2"),
+            url("fonts/MesloLGSDZNerdFontMono-Regular.ttf") format("truetype");
     font-stretch: normal;
     font-style: normal;
     font-weight: 400;
