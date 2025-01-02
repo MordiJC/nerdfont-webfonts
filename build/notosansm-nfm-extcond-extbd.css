@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "NotoSansM NFM ExtCond ExtBd";
+    src:    local(NotoSansMNerdFontMono-ExtraCondensedExtraBold),
+            url("fonts/NotoSansMNerdFontMono-ExtraCondensedExtraBold.woff2") format("woff2"),
+            url("fonts/NotoSansMNerdFontMono-ExtraCondensedExtraBold.ttf") format("truetype");
+    font-stretch: extra-condensed;
+    font-style: normal;
+    font-weight: 800;
+}
+@font-face {
+    font-family: "NotoSansM NFM ExtCond ExtBd";
+    src:    local(NotoSansMNerdFontMono-ExtraCondensedExtraBold),
+            url("fonts/NotoSansMNerdFontMono-ExtraCondensedExtraBold.woff2") format("woff2"),
+            url("fonts/NotoSansMNerdFontMono-ExtraCondensedExtraBold.ttf") format("truetype");
+    font-stretch: extra-condensed;
+    font-style: normal;
+    font-weight: 800;
+}

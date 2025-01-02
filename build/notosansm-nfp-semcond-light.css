@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "NotoSansM NFP SemCond Light";
+    src:    local(NotoSansMNerdFontPropo-SemiCondensedLight),
+            url("fonts/NotoSansMNerdFontPropo-SemiCondensedLight.woff2") format("woff2"),
+            url("fonts/NotoSansMNerdFontPropo-SemiCondensedLight.ttf") format("truetype");
+    font-stretch: semi-condensed;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "NotoSansM NFP SemCond Light";
+    src:    local(NotoSansMNerdFontPropo-SemiCondensedLight),
+            url("fonts/NotoSansMNerdFontPropo-SemiCondensedLight.woff2") format("woff2"),
+            url("fonts/NotoSansMNerdFontPropo-SemiCondensedLight.ttf") format("truetype");
+    font-stretch: semi-condensed;
+    font-style: normal;
+    font-weight: 300;
+}

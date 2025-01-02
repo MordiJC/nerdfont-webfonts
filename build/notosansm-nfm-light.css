@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "NotoSansM NFM Light";
+    src:    local(NotoSansMNerdFontMono-Light),
+            url("fonts/NotoSansMNerdFontMono-Light.woff2") format("woff2"),
+            url("fonts/NotoSansMNerdFontMono-Light.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "NotoSansM NFM Light";
+    src:    local(NotoSansMNerdFontMono-Light),
+            url("fonts/NotoSansMNerdFontMono-Light.woff2") format("woff2"),
+            url("fonts/NotoSansMNerdFontMono-Light.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}

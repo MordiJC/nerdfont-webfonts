@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "NotoSansM NFP ExtCond";
+    src:    local(NotoSansMNerdFontPropo-ExtraCondensedBold),
+            url("fonts/NotoSansMNerdFontPropo-ExtraCondensedBold.woff2") format("woff2"),
+            url("fonts/NotoSansMNerdFontPropo-ExtraCondensedBold.ttf") format("truetype");
+    font-stretch: extra-condensed;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "NotoSansM NFP ExtCond";
+    src:    local(NotoSansMNerdFontPropo-ExtraCondensedRegular),
+            url("fonts/NotoSansMNerdFontPropo-ExtraCondensedRegular.woff2") format("woff2"),
+            url("fonts/NotoSansMNerdFontPropo-ExtraCondensedRegular.ttf") format("truetype");
+    font-stretch: extra-condensed;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "NotoSansM NFP ExtCond";
+    src:    local(NotoSansMNerdFontPropo-ExtraCondensedBold),
+            url("fonts/NotoSansMNerdFontPropo-ExtraCondensedBold.woff2") format("woff2"),
+            url("fonts/NotoSansMNerdFontPropo-ExtraCondensedBold.ttf") format("truetype");
+    font-stretch: extra-condensed;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "NotoSansM NFP ExtCond";
+    src:    local(NotoSansMNerdFontPropo-ExtraCondensedRegular),
+            url("fonts/NotoSansMNerdFontPropo-ExtraCondensedRegular.woff2") format("woff2"),
+            url("fonts/NotoSansMNerdFontPropo-ExtraCondensedRegular.ttf") format("truetype");
+    font-stretch: extra-condensed;
+    font-style: normal;
+    font-weight: 400;
+}
