@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "ZedMono NFP Extd ExtBd Obl";
+    src:    local(ZedMonoNerdFontPropo-ExtendedExtraBoldOblique),
+            url("fonts/ZedMonoNerdFontPropo-ExtendedExtraBoldOblique.woff2") format("woff2"),
+            url("fonts/ZedMonoNerdFontPropo-ExtendedExtraBoldOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 800;
+}
+@font-face {
+    font-family: "ZedMono NFP Extd ExtBd Obl";
+    src:    local(ZedMonoNerdFontPropo-ExtendedExtraBoldOblique),
+            url("fonts/ZedMonoNerdFontPropo-ExtendedExtraBoldOblique.woff2") format("woff2"),
+            url("fonts/ZedMonoNerdFontPropo-ExtendedExtraBoldOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 800;
+}

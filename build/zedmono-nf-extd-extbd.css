@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "ZedMono NF Extd ExtBd";
+    src:    local(ZedMonoNerdFont-ExtendedExtraBoldItalic),
+            url("fonts/ZedMonoNerdFont-ExtendedExtraBoldItalic.woff2") format("woff2"),
+            url("fonts/ZedMonoNerdFont-ExtendedExtraBoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 800;
+}
+@font-face {
+    font-family: "ZedMono NF Extd ExtBd";
+    src:    local(ZedMonoNerdFont-ExtendedExtraBold),
+            url("fonts/ZedMonoNerdFont-ExtendedExtraBold.woff2") format("woff2"),
+            url("fonts/ZedMonoNerdFont-ExtendedExtraBold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 800;
+}
+@font-face {
+    font-family: "ZedMono NF Extd ExtBd";
+    src:    local(ZedMonoNerdFont-ExtendedExtraBoldItalic),
+            url("fonts/ZedMonoNerdFont-ExtendedExtraBoldItalic.woff2") format("woff2"),
+            url("fonts/ZedMonoNerdFont-ExtendedExtraBoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 800;
+}
+@font-face {
+    font-family: "ZedMono NF Extd ExtBd";
+    src:    local(ZedMonoNerdFont-ExtendedExtraBold),
+            url("fonts/ZedMonoNerdFont-ExtendedExtraBold.woff2") format("woff2"),
+            url("fonts/ZedMonoNerdFont-ExtendedExtraBold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 800;
+}

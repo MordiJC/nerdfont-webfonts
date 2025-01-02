@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "ZedMono NFP Obl";
+    src:    local(ZedMonoNerdFontPropo-BoldOblique),
+            url("fonts/ZedMonoNerdFontPropo-BoldOblique.woff2") format("woff2"),
+            url("fonts/ZedMonoNerdFontPropo-BoldOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFP Obl";
+    src:    local(ZedMonoNerdFontPropo-Oblique),
+            url("fonts/ZedMonoNerdFontPropo-Oblique.woff2") format("woff2"),
+            url("fonts/ZedMonoNerdFontPropo-Oblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ZedMono NFP Obl";
+    src:    local(ZedMonoNerdFontPropo-BoldOblique),
+            url("fonts/ZedMonoNerdFontPropo-BoldOblique.woff2") format("woff2"),
+            url("fonts/ZedMonoNerdFontPropo-BoldOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ZedMono NFP Obl";
+    src:    local(ZedMonoNerdFontPropo-Oblique),
+            url("fonts/ZedMonoNerdFontPropo-Oblique.woff2") format("woff2"),
+            url("fonts/ZedMonoNerdFontPropo-Oblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}

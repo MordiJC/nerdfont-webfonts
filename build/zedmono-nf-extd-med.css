@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "ZedMono NF Extd Med";
+    src:    local(ZedMonoNerdFont-ExtendedMediumItalic),
+            url("fonts/ZedMonoNerdFont-ExtendedMediumItalic.woff2") format("woff2"),
+            url("fonts/ZedMonoNerdFont-ExtendedMediumItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "ZedMono NF Extd Med";
+    src:    local(ZedMonoNerdFont-ExtendedMedium),
+            url("fonts/ZedMonoNerdFont-ExtendedMedium.woff2") format("woff2"),
+            url("fonts/ZedMonoNerdFont-ExtendedMedium.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "ZedMono NF Extd Med";
+    src:    local(ZedMonoNerdFont-ExtendedMediumItalic),
+            url("fonts/ZedMonoNerdFont-ExtendedMediumItalic.woff2") format("woff2"),
+            url("fonts/ZedMonoNerdFont-ExtendedMediumItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "ZedMono NF Extd Med";
+    src:    local(ZedMonoNerdFont-ExtendedMedium),
+            url("fonts/ZedMonoNerdFont-ExtendedMedium.woff2") format("woff2"),
+            url("fonts/ZedMonoNerdFont-ExtendedMedium.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
