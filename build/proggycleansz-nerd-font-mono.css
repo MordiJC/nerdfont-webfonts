@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "ProggyCleanSZ Nerd Font Mono";
+    src:    local(ProggyCleanSZNerdFontMono-Regular),
+            url("fonts/ProggyCleanSZNerdFontMono-Regular.woff2") format("woff2"),
+            url("fonts/ProggyCleanSZNerdFontMono-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ProggyCleanSZ Nerd Font Mono";
+    src:    local(ProggyCleanSZNerdFontMono-Regular),
+            url("fonts/ProggyCleanSZNerdFontMono-Regular.woff2") format("woff2"),
+            url("fonts/ProggyCleanSZNerdFontMono-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
