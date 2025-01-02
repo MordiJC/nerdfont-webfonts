@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "Iosevka NF Obl";
+    src:    local(IosevkaNerdFont-BoldOblique),
+            url("fonts/IosevkaNerdFont-BoldOblique.woff2") format("woff2"),
+            url("fonts/IosevkaNerdFont-BoldOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Iosevka NF Obl";
+    src:    local(IosevkaNerdFont-Oblique),
+            url("fonts/IosevkaNerdFont-Oblique.woff2") format("woff2"),
+            url("fonts/IosevkaNerdFont-Oblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Iosevka NF Obl";
+    src:    local(IosevkaNerdFont-BoldOblique),
+            url("fonts/IosevkaNerdFont-BoldOblique.woff2") format("woff2"),
+            url("fonts/IosevkaNerdFont-BoldOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Iosevka NF Obl";
+    src:    local(IosevkaNerdFont-Oblique),
+            url("fonts/IosevkaNerdFont-Oblique.woff2") format("woff2"),
+            url("fonts/IosevkaNerdFont-Oblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}

@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Iosevka NFM SemiBold Obl";
+    src:    local(IosevkaNerdFontMono-SemiBoldOblique),
+            url("fonts/IosevkaNerdFontMono-SemiBoldOblique.woff2") format("woff2"),
+            url("fonts/IosevkaNerdFontMono-SemiBoldOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Iosevka NFM SemiBold Obl";
+    src:    local(IosevkaNerdFontMono-SemiBoldOblique),
+            url("fonts/IosevkaNerdFontMono-SemiBoldOblique.woff2") format("woff2"),
+            url("fonts/IosevkaNerdFontMono-SemiBoldOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 600;
+}
