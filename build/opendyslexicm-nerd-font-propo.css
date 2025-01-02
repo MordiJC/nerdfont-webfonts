@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "OpenDyslexicM Nerd Font Propo";
+    src:    local(OpenDyslexicMNerdFontPropo-Regular),
+            url("fonts/OpenDyslexicMNerdFontPropo-Regular.woff2") format("woff2"),
+            url("fonts/OpenDyslexicMNerdFontPropo-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "OpenDyslexicM Nerd Font Propo";
+    src:    local(OpenDyslexicMNerdFontPropo-Regular),
+            url("fonts/OpenDyslexicMNerdFontPropo-Regular.woff2") format("woff2"),
+            url("fonts/OpenDyslexicMNerdFontPropo-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
