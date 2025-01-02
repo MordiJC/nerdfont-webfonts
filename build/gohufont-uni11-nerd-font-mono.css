@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "GohuFont uni11 Nerd Font Mono";
+    src:    local(GohuFontuni11NerdFontMono-Regular),
+            url("fonts/GohuFontuni11NerdFontMono-Regular.woff2") format("woff2"),
+            url("fonts/GohuFontuni11NerdFontMono-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "GohuFont uni11 Nerd Font Mono";
+    src:    local(GohuFontuni11NerdFontMono-Regular),
+            url("fonts/GohuFontuni11NerdFontMono-Regular.woff2") format("woff2"),
+            url("fonts/GohuFontuni11NerdFontMono-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
