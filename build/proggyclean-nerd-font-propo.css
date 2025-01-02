@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "ProggyClean Nerd Font Propo";
+    src:    local(ProggyCleanNerdFontPropo-Regular),
+            url("fonts/ProggyCleanNerdFontPropo-Regular.woff2") format("woff2"),
+            url("fonts/ProggyCleanNerdFontPropo-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ProggyClean Nerd Font Propo";
+    src:    local(ProggyCleanNerdFontPropo-Regular),
+            url("fonts/ProggyCleanNerdFontPropo-Regular.woff2") format("woff2"),
+            url("fonts/ProggyCleanNerdFontPropo-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
