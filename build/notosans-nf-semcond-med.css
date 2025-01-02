@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "NotoSans NF SemCond Med";
+    src:    local(NotoSansNerdFont-SemiCondensedMediumItalic),
+            url("fonts/NotoSansNerdFont-SemiCondensedMediumItalic.woff2") format("woff2"),
+            url("fonts/NotoSansNerdFont-SemiCondensedMediumItalic.ttf") format("truetype");
+    font-stretch: semi-condensed;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "NotoSans NF SemCond Med";
+    src:    local(NotoSansNerdFont-SemiCondensedMedium),
+            url("fonts/NotoSansNerdFont-SemiCondensedMedium.woff2") format("woff2"),
+            url("fonts/NotoSansNerdFont-SemiCondensedMedium.ttf") format("truetype");
+    font-stretch: semi-condensed;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "NotoSans NF SemCond Med";
+    src:    local(NotoSansNerdFont-SemiCondensedMediumItalic),
+            url("fonts/NotoSansNerdFont-SemiCondensedMediumItalic.woff2") format("woff2"),
+            url("fonts/NotoSansNerdFont-SemiCondensedMediumItalic.ttf") format("truetype");
+    font-stretch: semi-condensed;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "NotoSans NF SemCond Med";
+    src:    local(NotoSansNerdFont-SemiCondensedMedium),
+            url("fonts/NotoSansNerdFont-SemiCondensedMedium.woff2") format("woff2"),
+            url("fonts/NotoSansNerdFont-SemiCondensedMedium.ttf") format("truetype");
+    font-stretch: semi-condensed;
+    font-style: normal;
+    font-weight: 500;
+}

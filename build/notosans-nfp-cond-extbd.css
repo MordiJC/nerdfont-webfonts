@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "NotoSans NFP Cond ExtBd";
+    src:    local(NotoSansNerdFontPropo-CondensedExtraBoldItalic),
+            url("fonts/NotoSansNerdFontPropo-CondensedExtraBoldItalic.woff2") format("woff2"),
+            url("fonts/NotoSansNerdFontPropo-CondensedExtraBoldItalic.ttf") format("truetype");
+    font-stretch: condensed;
+    font-style: italic;
+    font-weight: 800;
+}
+@font-face {
+    font-family: "NotoSans NFP Cond ExtBd";
+    src:    local(NotoSansNerdFontPropo-CondensedExtraBold),
+            url("fonts/NotoSansNerdFontPropo-CondensedExtraBold.woff2") format("woff2"),
+            url("fonts/NotoSansNerdFontPropo-CondensedExtraBold.ttf") format("truetype");
+    font-stretch: condensed;
+    font-style: normal;
+    font-weight: 800;
+}
+@font-face {
+    font-family: "NotoSans NFP Cond ExtBd";
+    src:    local(NotoSansNerdFontPropo-CondensedExtraBoldItalic),
+            url("fonts/NotoSansNerdFontPropo-CondensedExtraBoldItalic.woff2") format("woff2"),
+            url("fonts/NotoSansNerdFontPropo-CondensedExtraBoldItalic.ttf") format("truetype");
+    font-stretch: condensed;
+    font-style: italic;
+    font-weight: 800;
+}
+@font-face {
+    font-family: "NotoSans NFP Cond ExtBd";
+    src:    local(NotoSansNerdFontPropo-CondensedExtraBold),
+            url("fonts/NotoSansNerdFontPropo-CondensedExtraBold.woff2") format("woff2"),
+            url("fonts/NotoSansNerdFontPropo-CondensedExtraBold.ttf") format("truetype");
+    font-stretch: condensed;
+    font-style: normal;
+    font-weight: 800;
+}

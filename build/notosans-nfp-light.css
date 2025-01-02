@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "NotoSans NFP Light";
+    src:    local(NotoSansNerdFontPropo-LightItalic),
+            url("fonts/NotoSansNerdFontPropo-LightItalic.woff2") format("woff2"),
+            url("fonts/NotoSansNerdFontPropo-LightItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "NotoSans NFP Light";
+    src:    local(NotoSansNerdFontPropo-Light),
+            url("fonts/NotoSansNerdFontPropo-Light.woff2") format("woff2"),
+            url("fonts/NotoSansNerdFontPropo-Light.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "NotoSans NFP Light";
+    src:    local(NotoSansNerdFontPropo-LightItalic),
+            url("fonts/NotoSansNerdFontPropo-LightItalic.woff2") format("woff2"),
+            url("fonts/NotoSansNerdFontPropo-LightItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "NotoSans NFP Light";
+    src:    local(NotoSansNerdFontPropo-Light),
+            url("fonts/NotoSansNerdFontPropo-Light.woff2") format("woff2"),
+            url("fonts/NotoSansNerdFontPropo-Light.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
