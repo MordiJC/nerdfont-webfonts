@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Monoid Nerd Font Retina";
+    src:    local(MonoidNerdFont-Retina),
+            url("fonts/MonoidNerdFont-Retina.woff2") format("woff2"),
+            url("fonts/MonoidNerdFont-Retina.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Monoid Nerd Font Retina";
+    src:    local(MonoidNerdFont-Retina),
+            url("fonts/MonoidNerdFont-Retina.woff2") format("woff2"),
+            url("fonts/MonoidNerdFont-Retina.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
