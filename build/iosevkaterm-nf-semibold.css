@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "IosevkaTerm NF SemiBold";
+    src:    local(IosevkaTermNerdFont-SemiBoldItalic),
+            url("fonts/IosevkaTermNerdFont-SemiBoldItalic.woff2") format("woff2"),
+            url("fonts/IosevkaTermNerdFont-SemiBoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "IosevkaTerm NF SemiBold";
+    src:    local(IosevkaTermNerdFont-SemiBold),
+            url("fonts/IosevkaTermNerdFont-SemiBold.woff2") format("woff2"),
+            url("fonts/IosevkaTermNerdFont-SemiBold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "IosevkaTerm NF SemiBold";
+    src:    local(IosevkaTermNerdFont-SemiBoldItalic),
+            url("fonts/IosevkaTermNerdFont-SemiBoldItalic.woff2") format("woff2"),
+            url("fonts/IosevkaTermNerdFont-SemiBoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "IosevkaTerm NF SemiBold";
+    src:    local(IosevkaTermNerdFont-SemiBold),
+            url("fonts/IosevkaTermNerdFont-SemiBold.woff2") format("woff2"),
+            url("fonts/IosevkaTermNerdFont-SemiBold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}

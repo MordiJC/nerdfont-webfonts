@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "IosevkaTerm NFM Obl";
+    src:    local(IosevkaTermNerdFontMono-BoldOblique),
+            url("fonts/IosevkaTermNerdFontMono-BoldOblique.woff2") format("woff2"),
+            url("fonts/IosevkaTermNerdFontMono-BoldOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTerm NFM Obl";
+    src:    local(IosevkaTermNerdFontMono-Oblique),
+            url("fonts/IosevkaTermNerdFontMono-Oblique.woff2") format("woff2"),
+            url("fonts/IosevkaTermNerdFontMono-Oblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "IosevkaTerm NFM Obl";
+    src:    local(IosevkaTermNerdFontMono-BoldOblique),
+            url("fonts/IosevkaTermNerdFontMono-BoldOblique.woff2") format("woff2"),
+            url("fonts/IosevkaTermNerdFontMono-BoldOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IosevkaTerm NFM Obl";
+    src:    local(IosevkaTermNerdFontMono-Oblique),
+            url("fonts/IosevkaTermNerdFontMono-Oblique.woff2") format("woff2"),
+            url("fonts/IosevkaTermNerdFontMono-Oblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}

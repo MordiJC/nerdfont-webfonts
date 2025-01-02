@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "IosevkaTerm NFM Heavy Obl";
+    src:    local(IosevkaTermNerdFontMono-HeavyOblique),
+            url("fonts/IosevkaTermNerdFontMono-HeavyOblique.woff2") format("woff2"),
+            url("fonts/IosevkaTermNerdFontMono-HeavyOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "IosevkaTerm NFM Heavy Obl";
+    src:    local(IosevkaTermNerdFontMono-HeavyOblique),
+            url("fonts/IosevkaTermNerdFontMono-HeavyOblique.woff2") format("woff2"),
+            url("fonts/IosevkaTermNerdFontMono-HeavyOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 900;
+}
