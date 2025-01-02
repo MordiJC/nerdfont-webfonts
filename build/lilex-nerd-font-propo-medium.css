@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Lilex Nerd Font Propo Medium";
+    src:    local(LilexNerdFontPropo-Medium),
+            url("fonts/LilexNerdFontPropo-Medium.woff2") format("woff2"),
+            url("fonts/LilexNerdFontPropo-Medium.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Lilex Nerd Font Propo Medium";
+    src:    local(LilexNerdFontPropo-Medium),
+            url("fonts/LilexNerdFontPropo-Medium.woff2") format("woff2"),
+            url("fonts/LilexNerdFontPropo-Medium.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}

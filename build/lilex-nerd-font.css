@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "Lilex Nerd Font";
+    src:    local(LilexNerdFont-Bold),
+            url("fonts/LilexNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/LilexNerdFont-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Lilex Nerd Font";
+    src:    local(LilexNerdFont-Regular),
+            url("fonts/LilexNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/LilexNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Lilex Nerd Font";
+    src:    local(LilexNerdFont-Bold),
+            url("fonts/LilexNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/LilexNerdFont-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Lilex Nerd Font";
+    src:    local(LilexNerdFont-Regular),
+            url("fonts/LilexNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/LilexNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

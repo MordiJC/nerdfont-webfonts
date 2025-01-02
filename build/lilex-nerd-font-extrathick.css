@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Lilex Nerd Font ExtraThick";
+    src:    local(LilexNerdFont-ExtraThick),
+            url("fonts/LilexNerdFont-ExtraThick.woff2") format("woff2"),
+            url("fonts/LilexNerdFont-ExtraThick.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Lilex Nerd Font ExtraThick";
+    src:    local(LilexNerdFont-ExtraThick),
+            url("fonts/LilexNerdFont-ExtraThick.woff2") format("woff2"),
+            url("fonts/LilexNerdFont-ExtraThick.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
