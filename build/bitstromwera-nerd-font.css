@@ -1,0 +1,144 @@
+@font-face {
+    font-family: "BitstromWera Nerd Font";
+    src:    local(BitstromWeraNerdFont-BoldOblique),
+            url("fonts/BitstromWeraNerdFont-BoldOblique.woff2") format("woff2"),
+            url("fonts/BitstromWeraNerdFont-BoldOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "BitstromWera Nerd Font";
+    src:    local(BitstromWeraNerdFont-Bold),
+            url("fonts/BitstromWeraNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/BitstromWeraNerdFont-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "BitstromWera Nerd Font";
+    src:    local(BitstromWeraNerdFont-Oblique),
+            url("fonts/BitstromWeraNerdFont-Oblique.woff2") format("woff2"),
+            url("fonts/BitstromWeraNerdFont-Oblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "BitstromWera Nerd Font";
+    src:    local(BitstromWeraNerdFont-Regular),
+            url("fonts/BitstromWeraNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/BitstromWeraNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "BitstromWera Nerd Font";
+    src:    local(BitstromWeraNerdFont-BoldOblique),
+            url("fonts/BitstromWeraNerdFont-BoldOblique.woff2") format("woff2"),
+            url("fonts/BitstromWeraNerdFont-BoldOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "BitstromWera Nerd Font";
+    src:    local(BitstromWeraNerdFont-Bold),
+            url("fonts/BitstromWeraNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/BitstromWeraNerdFont-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "BitstromWera Nerd Font";
+    src:    local(BitstromWeraNerdFont-Oblique),
+            url("fonts/BitstromWeraNerdFont-Oblique.woff2") format("woff2"),
+            url("fonts/BitstromWeraNerdFont-Oblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "BitstromWera Nerd Font";
+    src:    local(BitstromWeraNerdFont-Regular),
+            url("fonts/BitstromWeraNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/BitstromWeraNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "BitstromWera Nerd Font";
+    src:    local(BitstromWeraNerdFont-BoldOblique),
+            url("fonts/BitstromWeraNerdFont-BoldOblique.woff2") format("woff2"),
+            url("fonts/BitstromWeraNerdFont-BoldOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "BitstromWera Nerd Font";
+    src:    local(BitstromWeraNerdFont-Bold),
+            url("fonts/BitstromWeraNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/BitstromWeraNerdFont-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "BitstromWera Nerd Font";
+    src:    local(BitstromWeraNerdFont-Oblique),
+            url("fonts/BitstromWeraNerdFont-Oblique.woff2") format("woff2"),
+            url("fonts/BitstromWeraNerdFont-Oblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "BitstromWera Nerd Font";
+    src:    local(BitstromWeraNerdFont-Regular),
+            url("fonts/BitstromWeraNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/BitstromWeraNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "BitstromWera Nerd Font";
+    src:    local(BitstromWeraNerdFont-BoldOblique),
+            url("fonts/BitstromWeraNerdFont-BoldOblique.woff2") format("woff2"),
+            url("fonts/BitstromWeraNerdFont-BoldOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "BitstromWera Nerd Font";
+    src:    local(BitstromWeraNerdFont-Bold),
+            url("fonts/BitstromWeraNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/BitstromWeraNerdFont-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "BitstromWera Nerd Font";
+    src:    local(BitstromWeraNerdFont-Oblique),
+            url("fonts/BitstromWeraNerdFont-Oblique.woff2") format("woff2"),
+            url("fonts/BitstromWeraNerdFont-Oblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "BitstromWera Nerd Font";
+    src:    local(BitstromWeraNerdFont-Regular),
+            url("fonts/BitstromWeraNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/BitstromWeraNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
