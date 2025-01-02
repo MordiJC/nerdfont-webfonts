@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "IosevkaTermSlab NFP Light Obl";
+    src:    local(IosevkaTermSlabNerdFontPropo-LightOblique),
+            url("fonts/IosevkaTermSlabNerdFontPropo-LightOblique.woff2") format("woff2"),
+            url("fonts/IosevkaTermSlabNerdFontPropo-LightOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "IosevkaTermSlab NFP Light Obl";
+    src:    local(IosevkaTermSlabNerdFontPropo-LightOblique),
+            url("fonts/IosevkaTermSlabNerdFontPropo-LightOblique.woff2") format("woff2"),
+            url("fonts/IosevkaTermSlabNerdFontPropo-LightOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 300;
+}
