@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "RecMonoDuotone Nerd Font Propo";
+    src:    local(RecMonoDuotoneNerdFontPropo-BoldItalic),
+            url("fonts/RecMonoDuotoneNerdFontPropo-BoldItalic.woff2") format("woff2"),
+            url("fonts/RecMonoDuotoneNerdFontPropo-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "RecMonoDuotone Nerd Font Propo";
+    src:    local(RecMonoDuotoneNerdFontPropo-Bold),
+            url("fonts/RecMonoDuotoneNerdFontPropo-Bold.woff2") format("woff2"),
+            url("fonts/RecMonoDuotoneNerdFontPropo-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "RecMonoDuotone Nerd Font Propo";
+    src:    local(RecMonoDuotoneNerdFontPropo-Italic),
+            url("fonts/RecMonoDuotoneNerdFontPropo-Italic.woff2") format("woff2"),
+            url("fonts/RecMonoDuotoneNerdFontPropo-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "RecMonoDuotone Nerd Font Propo";
+    src:    local(RecMonoDuotoneNerdFontPropo-Regular),
+            url("fonts/RecMonoDuotoneNerdFontPropo-Regular.woff2") format("woff2"),
+            url("fonts/RecMonoDuotoneNerdFontPropo-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "RecMonoDuotone Nerd Font Propo";
+    src:    local(RecMonoDuotoneNerdFontPropo-BoldItalic),
+            url("fonts/RecMonoDuotoneNerdFontPropo-BoldItalic.woff2") format("woff2"),
+            url("fonts/RecMonoDuotoneNerdFontPropo-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "RecMonoDuotone Nerd Font Propo";
+    src:    local(RecMonoDuotoneNerdFontPropo-Bold),
+            url("fonts/RecMonoDuotoneNerdFontPropo-Bold.woff2") format("woff2"),
+            url("fonts/RecMonoDuotoneNerdFontPropo-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "RecMonoDuotone Nerd Font Propo";
+    src:    local(RecMonoDuotoneNerdFontPropo-Italic),
+            url("fonts/RecMonoDuotoneNerdFontPropo-Italic.woff2") format("woff2"),
+            url("fonts/RecMonoDuotoneNerdFontPropo-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "RecMonoDuotone Nerd Font Propo";
+    src:    local(RecMonoDuotoneNerdFontPropo-Regular),
+            url("fonts/RecMonoDuotoneNerdFontPropo-Regular.woff2") format("woff2"),
+            url("fonts/RecMonoDuotoneNerdFontPropo-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
