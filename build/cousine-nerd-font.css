@@ -1,35 +1,143 @@
 @font-face {
     font-family: "Cousine Nerd Font";
-    src:    local(Cousine Bold Italic Nerd Font Complete),
-            url("fonts/Cousine Bold Italic Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/Cousine Bold Italic Nerd Font Complete.ttf") format("truetype");
+    src:    local(CousineNerdFont-BoldItalic),
+            url("fonts/CousineNerdFont-BoldItalic.woff2") format("woff2"),
+            url("fonts/CousineNerdFont-BoldItalic.ttf") format("truetype");
     font-stretch: normal;
     font-style: italic;
     font-weight: 700;
 }
 @font-face {
     font-family: "Cousine Nerd Font";
-    src:    local(Cousine Bold Nerd Font Complete),
-            url("fonts/Cousine Bold Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/Cousine Bold Nerd Font Complete.ttf") format("truetype");
+    src:    local(CousineNerdFont-Bold),
+            url("fonts/CousineNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/CousineNerdFont-Bold.ttf") format("truetype");
     font-stretch: normal;
     font-style: normal;
     font-weight: 700;
 }
 @font-face {
     font-family: "Cousine Nerd Font";
-    src:    local(Cousine Italic Nerd Font Complete),
-            url("fonts/Cousine Italic Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/Cousine Italic Nerd Font Complete.ttf") format("truetype");
+    src:    local(CousineNerdFont-Italic),
+            url("fonts/CousineNerdFont-Italic.woff2") format("woff2"),
+            url("fonts/CousineNerdFont-Italic.ttf") format("truetype");
     font-stretch: normal;
     font-style: italic;
     font-weight: 400;
 }
 @font-face {
     font-family: "Cousine Nerd Font";
-    src:    local(Cousine Regular Nerd Font Complete),
-            url("fonts/Cousine Regular Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/Cousine Regular Nerd Font Complete.ttf") format("truetype");
+    src:    local(CousineNerdFont-Regular),
+            url("fonts/CousineNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/CousineNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Cousine Nerd Font";
+    src:    local(CousineNerdFont-BoldItalic),
+            url("fonts/CousineNerdFont-BoldItalic.woff2") format("woff2"),
+            url("fonts/CousineNerdFont-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Cousine Nerd Font";
+    src:    local(CousineNerdFont-Bold),
+            url("fonts/CousineNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/CousineNerdFont-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Cousine Nerd Font";
+    src:    local(CousineNerdFont-Italic),
+            url("fonts/CousineNerdFont-Italic.woff2") format("woff2"),
+            url("fonts/CousineNerdFont-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Cousine Nerd Font";
+    src:    local(CousineNerdFont-Regular),
+            url("fonts/CousineNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/CousineNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Cousine Nerd Font";
+    src:    local(CousineNerdFont-BoldItalic),
+            url("fonts/CousineNerdFont-BoldItalic.woff2") format("woff2"),
+            url("fonts/CousineNerdFont-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Cousine Nerd Font";
+    src:    local(CousineNerdFont-Bold),
+            url("fonts/CousineNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/CousineNerdFont-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Cousine Nerd Font";
+    src:    local(CousineNerdFont-Italic),
+            url("fonts/CousineNerdFont-Italic.woff2") format("woff2"),
+            url("fonts/CousineNerdFont-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Cousine Nerd Font";
+    src:    local(CousineNerdFont-Regular),
+            url("fonts/CousineNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/CousineNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Cousine Nerd Font";
+    src:    local(CousineNerdFont-BoldItalic),
+            url("fonts/CousineNerdFont-BoldItalic.woff2") format("woff2"),
+            url("fonts/CousineNerdFont-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Cousine Nerd Font";
+    src:    local(CousineNerdFont-Bold),
+            url("fonts/CousineNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/CousineNerdFont-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Cousine Nerd Font";
+    src:    local(CousineNerdFont-Italic),
+            url("fonts/CousineNerdFont-Italic.woff2") format("woff2"),
+            url("fonts/CousineNerdFont-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Cousine Nerd Font";
+    src:    local(CousineNerdFont-Regular),
+            url("fonts/CousineNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/CousineNerdFont-Regular.ttf") format("truetype");
     font-stretch: normal;
     font-style: normal;
     font-weight: 400;
