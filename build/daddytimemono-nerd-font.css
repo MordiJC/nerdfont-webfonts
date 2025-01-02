@@ -1,8 +1,35 @@
 @font-face {
     font-family: "DaddyTimeMono Nerd Font";
-    src:    local(DaddyTimeMono Nerd Font Complete),
-            url("fonts/DaddyTimeMono Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/DaddyTimeMono Nerd Font Complete.ttf") format("truetype");
+    src:    local(DaddyTimeMonoNerdFont-Regular),
+            url("fonts/DaddyTimeMonoNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/DaddyTimeMonoNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "DaddyTimeMono Nerd Font";
+    src:    local(DaddyTimeMonoNerdFont-Regular),
+            url("fonts/DaddyTimeMonoNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/DaddyTimeMonoNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "DaddyTimeMono Nerd Font";
+    src:    local(DaddyTimeMonoNerdFont-Regular),
+            url("fonts/DaddyTimeMonoNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/DaddyTimeMonoNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "DaddyTimeMono Nerd Font";
+    src:    local(DaddyTimeMonoNerdFont-Regular),
+            url("fonts/DaddyTimeMonoNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/DaddyTimeMonoNerdFont-Regular.ttf") format("truetype");
     font-stretch: normal;
     font-style: normal;
     font-weight: 400;
