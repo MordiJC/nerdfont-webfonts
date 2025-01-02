@@ -1,35 +1,71 @@
 @font-face {
     font-family: "LiterationSans Nerd Font";
-    src:    local(Literation Sans Bold Italic Nerd Font Complete),
-            url("fonts/Literation Sans Bold Italic Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/Literation Sans Bold Italic Nerd Font Complete.ttf") format("truetype");
+    src:    local(LiterationSansNerdFont-BoldItalic),
+            url("fonts/LiterationSansNerdFont-BoldItalic.woff2") format("woff2"),
+            url("fonts/LiterationSansNerdFont-BoldItalic.ttf") format("truetype");
     font-stretch: normal;
     font-style: italic;
     font-weight: 700;
 }
 @font-face {
     font-family: "LiterationSans Nerd Font";
-    src:    local(Literation Sans Bold Nerd Font Complete),
-            url("fonts/Literation Sans Bold Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/Literation Sans Bold Nerd Font Complete.ttf") format("truetype");
+    src:    local(LiterationSansNerdFont-Bold),
+            url("fonts/LiterationSansNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/LiterationSansNerdFont-Bold.ttf") format("truetype");
     font-stretch: normal;
     font-style: normal;
     font-weight: 700;
 }
 @font-face {
     font-family: "LiterationSans Nerd Font";
-    src:    local(Literation Sans Italic Nerd Font Complete),
-            url("fonts/Literation Sans Italic Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/Literation Sans Italic Nerd Font Complete.ttf") format("truetype");
+    src:    local(LiterationSansNerdFont-Italic),
+            url("fonts/LiterationSansNerdFont-Italic.woff2") format("woff2"),
+            url("fonts/LiterationSansNerdFont-Italic.ttf") format("truetype");
     font-stretch: normal;
     font-style: italic;
     font-weight: 400;
 }
 @font-face {
     font-family: "LiterationSans Nerd Font";
-    src:    local(Literation Sans Nerd Font Complete),
-            url("fonts/Literation Sans Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/Literation Sans Nerd Font Complete.ttf") format("truetype");
+    src:    local(LiterationSansNerdFont-Regular),
+            url("fonts/LiterationSansNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/LiterationSansNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "LiterationSans Nerd Font";
+    src:    local(LiterationSansNerdFont-BoldItalic),
+            url("fonts/LiterationSansNerdFont-BoldItalic.woff2") format("woff2"),
+            url("fonts/LiterationSansNerdFont-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "LiterationSans Nerd Font";
+    src:    local(LiterationSansNerdFont-Bold),
+            url("fonts/LiterationSansNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/LiterationSansNerdFont-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "LiterationSans Nerd Font";
+    src:    local(LiterationSansNerdFont-Italic),
+            url("fonts/LiterationSansNerdFont-Italic.woff2") format("woff2"),
+            url("fonts/LiterationSansNerdFont-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "LiterationSans Nerd Font";
+    src:    local(LiterationSansNerdFont-Regular),
+            url("fonts/LiterationSansNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/LiterationSansNerdFont-Regular.ttf") format("truetype");
     font-stretch: normal;
     font-style: normal;
     font-weight: 400;
