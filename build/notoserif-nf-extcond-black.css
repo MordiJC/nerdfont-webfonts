@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "NotoSerif NF ExtCond Black";
+    src:    local(NotoSerifNerdFont-ExtraCondensedBlackItalic),
+            url("fonts/NotoSerifNerdFont-ExtraCondensedBlackItalic.woff2") format("woff2"),
+            url("fonts/NotoSerifNerdFont-ExtraCondensedBlackItalic.ttf") format("truetype");
+    font-stretch: extra-condensed;
+    font-style: italic;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "NotoSerif NF ExtCond Black";
+    src:    local(NotoSerifNerdFont-ExtraCondensedBlack),
+            url("fonts/NotoSerifNerdFont-ExtraCondensedBlack.woff2") format("woff2"),
+            url("fonts/NotoSerifNerdFont-ExtraCondensedBlack.ttf") format("truetype");
+    font-stretch: extra-condensed;
+    font-style: normal;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "NotoSerif NF ExtCond Black";
+    src:    local(NotoSerifNerdFont-ExtraCondensedBlackItalic),
+            url("fonts/NotoSerifNerdFont-ExtraCondensedBlackItalic.woff2") format("woff2"),
+            url("fonts/NotoSerifNerdFont-ExtraCondensedBlackItalic.ttf") format("truetype");
+    font-stretch: extra-condensed;
+    font-style: italic;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "NotoSerif NF ExtCond Black";
+    src:    local(NotoSerifNerdFont-ExtraCondensedBlack),
+            url("fonts/NotoSerifNerdFont-ExtraCondensedBlack.woff2") format("woff2"),
+            url("fonts/NotoSerifNerdFont-ExtraCondensedBlack.ttf") format("truetype");
+    font-stretch: extra-condensed;
+    font-style: normal;
+    font-weight: 900;
+}

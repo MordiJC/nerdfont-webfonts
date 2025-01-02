@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "NotoSerif NF SemCond Light";
+    src:    local(NotoSerifNerdFont-SemiCondensedLightItalic),
+            url("fonts/NotoSerifNerdFont-SemiCondensedLightItalic.woff2") format("woff2"),
+            url("fonts/NotoSerifNerdFont-SemiCondensedLightItalic.ttf") format("truetype");
+    font-stretch: semi-condensed;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "NotoSerif NF SemCond Light";
+    src:    local(NotoSerifNerdFont-SemiCondensedLight),
+            url("fonts/NotoSerifNerdFont-SemiCondensedLight.woff2") format("woff2"),
+            url("fonts/NotoSerifNerdFont-SemiCondensedLight.ttf") format("truetype");
+    font-stretch: semi-condensed;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "NotoSerif NF SemCond Light";
+    src:    local(NotoSerifNerdFont-SemiCondensedLightItalic),
+            url("fonts/NotoSerifNerdFont-SemiCondensedLightItalic.woff2") format("woff2"),
+            url("fonts/NotoSerifNerdFont-SemiCondensedLightItalic.ttf") format("truetype");
+    font-stretch: semi-condensed;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "NotoSerif NF SemCond Light";
+    src:    local(NotoSerifNerdFont-SemiCondensedLight),
+            url("fonts/NotoSerifNerdFont-SemiCondensedLight.woff2") format("woff2"),
+            url("fonts/NotoSerifNerdFont-SemiCondensedLight.ttf") format("truetype");
+    font-stretch: semi-condensed;
+    font-style: normal;
+    font-weight: 300;
+}

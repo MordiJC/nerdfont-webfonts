@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "NotoSerif NF SemCond Thin";
+    src:    local(NotoSerifNerdFont-SemiCondensedThinItalic),
+            url("fonts/NotoSerifNerdFont-SemiCondensedThinItalic.woff2") format("woff2"),
+            url("fonts/NotoSerifNerdFont-SemiCondensedThinItalic.ttf") format("truetype");
+    font-stretch: semi-condensed;
+    font-style: italic;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "NotoSerif NF SemCond Thin";
+    src:    local(NotoSerifNerdFont-SemiCondensedThin),
+            url("fonts/NotoSerifNerdFont-SemiCondensedThin.woff2") format("woff2"),
+            url("fonts/NotoSerifNerdFont-SemiCondensedThin.ttf") format("truetype");
+    font-stretch: semi-condensed;
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "NotoSerif NF SemCond Thin";
+    src:    local(NotoSerifNerdFont-SemiCondensedThinItalic),
+            url("fonts/NotoSerifNerdFont-SemiCondensedThinItalic.woff2") format("woff2"),
+            url("fonts/NotoSerifNerdFont-SemiCondensedThinItalic.ttf") format("truetype");
+    font-stretch: semi-condensed;
+    font-style: italic;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "NotoSerif NF SemCond Thin";
+    src:    local(NotoSerifNerdFont-SemiCondensedThin),
+            url("fonts/NotoSerifNerdFont-SemiCondensedThin.woff2") format("woff2"),
+            url("fonts/NotoSerifNerdFont-SemiCondensedThin.ttf") format("truetype");
+    font-stretch: semi-condensed;
+    font-style: normal;
+    font-weight: 100;
+}
