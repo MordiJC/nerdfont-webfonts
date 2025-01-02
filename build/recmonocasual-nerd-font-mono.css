@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "RecMonoCasual Nerd Font Mono";
+    src:    local(RecMonoCasualNerdFontMono-BoldItalic),
+            url("fonts/RecMonoCasualNerdFontMono-BoldItalic.woff2") format("woff2"),
+            url("fonts/RecMonoCasualNerdFontMono-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "RecMonoCasual Nerd Font Mono";
+    src:    local(RecMonoCasualNerdFontMono-Bold),
+            url("fonts/RecMonoCasualNerdFontMono-Bold.woff2") format("woff2"),
+            url("fonts/RecMonoCasualNerdFontMono-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "RecMonoCasual Nerd Font Mono";
+    src:    local(RecMonoCasualNerdFontMono-Italic),
+            url("fonts/RecMonoCasualNerdFontMono-Italic.woff2") format("woff2"),
+            url("fonts/RecMonoCasualNerdFontMono-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "RecMonoCasual Nerd Font Mono";
+    src:    local(RecMonoCasualNerdFontMono-Regular),
+            url("fonts/RecMonoCasualNerdFontMono-Regular.woff2") format("woff2"),
+            url("fonts/RecMonoCasualNerdFontMono-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "RecMonoCasual Nerd Font Mono";
+    src:    local(RecMonoCasualNerdFontMono-BoldItalic),
+            url("fonts/RecMonoCasualNerdFontMono-BoldItalic.woff2") format("woff2"),
+            url("fonts/RecMonoCasualNerdFontMono-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "RecMonoCasual Nerd Font Mono";
+    src:    local(RecMonoCasualNerdFontMono-Bold),
+            url("fonts/RecMonoCasualNerdFontMono-Bold.woff2") format("woff2"),
+            url("fonts/RecMonoCasualNerdFontMono-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "RecMonoCasual Nerd Font Mono";
+    src:    local(RecMonoCasualNerdFontMono-Italic),
+            url("fonts/RecMonoCasualNerdFontMono-Italic.woff2") format("woff2"),
+            url("fonts/RecMonoCasualNerdFontMono-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "RecMonoCasual Nerd Font Mono";
+    src:    local(RecMonoCasualNerdFontMono-Regular),
+            url("fonts/RecMonoCasualNerdFontMono-Regular.woff2") format("woff2"),
+            url("fonts/RecMonoCasualNerdFontMono-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
