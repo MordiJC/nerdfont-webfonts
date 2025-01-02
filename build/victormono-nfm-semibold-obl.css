@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "VictorMono NFM SemiBold Obl";
+    src:    local(VictorMonoNerdFontMono-SemiBoldOblique),
+            url("fonts/VictorMonoNerdFontMono-SemiBoldOblique.woff2") format("woff2"),
+            url("fonts/VictorMonoNerdFontMono-SemiBoldOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "VictorMono NFM SemiBold Obl";
+    src:    local(VictorMonoNerdFontMono-SemiBoldOblique),
+            url("fonts/VictorMonoNerdFontMono-SemiBoldOblique.woff2") format("woff2"),
+            url("fonts/VictorMonoNerdFontMono-SemiBoldOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 600;
+}

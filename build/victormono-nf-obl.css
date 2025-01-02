@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "VictorMono NF Obl";
+    src:    local(VictorMonoNerdFont-BoldOblique),
+            url("fonts/VictorMonoNerdFont-BoldOblique.woff2") format("woff2"),
+            url("fonts/VictorMonoNerdFont-BoldOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "VictorMono NF Obl";
+    src:    local(VictorMonoNerdFont-Oblique),
+            url("fonts/VictorMonoNerdFont-Oblique.woff2") format("woff2"),
+            url("fonts/VictorMonoNerdFont-Oblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "VictorMono NF Obl";
+    src:    local(VictorMonoNerdFont-BoldOblique),
+            url("fonts/VictorMonoNerdFont-BoldOblique.woff2") format("woff2"),
+            url("fonts/VictorMonoNerdFont-BoldOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "VictorMono NF Obl";
+    src:    local(VictorMonoNerdFont-Oblique),
+            url("fonts/VictorMonoNerdFont-Oblique.woff2") format("woff2"),
+            url("fonts/VictorMonoNerdFont-Oblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 400;
+}

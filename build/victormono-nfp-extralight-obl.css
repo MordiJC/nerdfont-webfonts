@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "VictorMono NFP ExtraLight Obl";
+    src:    local(VictorMonoNerdFontPropo-ExtraLightOblique),
+            url("fonts/VictorMonoNerdFontPropo-ExtraLightOblique.woff2") format("woff2"),
+            url("fonts/VictorMonoNerdFontPropo-ExtraLightOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "VictorMono NFP ExtraLight Obl";
+    src:    local(VictorMonoNerdFontPropo-ExtraLightOblique),
+            url("fonts/VictorMonoNerdFontPropo-ExtraLightOblique.woff2") format("woff2"),
+            url("fonts/VictorMonoNerdFontPropo-ExtraLightOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 200;
+}

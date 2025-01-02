@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "VictorMono NF Light Obl";
+    src:    local(VictorMonoNerdFont-LightOblique),
+            url("fonts/VictorMonoNerdFont-LightOblique.woff2") format("woff2"),
+            url("fonts/VictorMonoNerdFont-LightOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "VictorMono NF Light Obl";
+    src:    local(VictorMonoNerdFont-LightOblique),
+            url("fonts/VictorMonoNerdFont-LightOblique.woff2") format("woff2"),
+            url("fonts/VictorMonoNerdFont-LightOblique.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: oblique;
+    font-weight: 300;
+}
