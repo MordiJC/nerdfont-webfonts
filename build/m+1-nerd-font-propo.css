@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "M+1 Nerd Font Propo";
+    src:    local(M+1NerdFontPropo-Bold),
+            url("fonts/M+1NerdFontPropo-Bold.woff2") format("woff2"),
+            url("fonts/M+1NerdFontPropo-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "M+1 Nerd Font Propo";
+    src:    local(M+1NerdFontPropo-Regular),
+            url("fonts/M+1NerdFontPropo-Regular.woff2") format("woff2"),
+            url("fonts/M+1NerdFontPropo-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "mplus  Nerd Font Propo";
+    src:    local(M+1NerdFontPropo-Bold),
+            url("fonts/M+1NerdFontPropo-Bold.woff2") format("woff2"),
+            url("fonts/M+1NerdFontPropo-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "mplus  Nerd Font Propo";
+    src:    local(M+1NerdFontPropo-Regular),
+            url("fonts/M+1NerdFontPropo-Regular.woff2") format("woff2"),
+            url("fonts/M+1NerdFontPropo-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
