@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "NotoMono NF";
+    src:    local(NotoMonoNerdFont-Regular),
+            url("fonts/NotoMonoNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/NotoMonoNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "NotoMono NF";
+    src:    local(NotoMonoNerdFont-Regular),
+            url("fonts/NotoMonoNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/NotoMonoNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
