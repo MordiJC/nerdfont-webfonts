@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "OverpassM Nerd Font";
+    src:    local(OverpassMNerdFont-Bold),
+            url("fonts/OverpassMNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/OverpassMNerdFont-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "OverpassM Nerd Font";
+    src:    local(OverpassMNerdFont-Regular),
+            url("fonts/OverpassMNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/OverpassMNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "OverpassM Nerd Font";
+    src:    local(OverpassMNerdFont-Bold),
+            url("fonts/OverpassMNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/OverpassMNerdFont-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "OverpassM Nerd Font";
+    src:    local(OverpassMNerdFont-Regular),
+            url("fonts/OverpassMNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/OverpassMNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

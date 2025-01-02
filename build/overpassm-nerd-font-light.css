@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "OverpassM Nerd Font Light";
+    src:    local(OverpassMNerdFont-Light),
+            url("fonts/OverpassMNerdFont-Light.woff2") format("woff2"),
+            url("fonts/OverpassMNerdFont-Light.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "OverpassM Nerd Font Light";
+    src:    local(OverpassMNerdFont-Light),
+            url("fonts/OverpassMNerdFont-Light.woff2") format("woff2"),
+            url("fonts/OverpassMNerdFont-Light.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
