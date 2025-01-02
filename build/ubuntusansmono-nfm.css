@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "UbuntuSansMono NFM";
+    src:    local(UbuntuSansMonoNerdFontMono-BoldItalic),
+            url("fonts/UbuntuSansMonoNerdFontMono-BoldItalic.woff2") format("woff2"),
+            url("fonts/UbuntuSansMonoNerdFontMono-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFM";
+    src:    local(UbuntuSansMonoNerdFontMono-Bold),
+            url("fonts/UbuntuSansMonoNerdFontMono-Bold.woff2") format("woff2"),
+            url("fonts/UbuntuSansMonoNerdFontMono-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFM";
+    src:    local(UbuntuSansMonoNerdFontMono-Italic),
+            url("fonts/UbuntuSansMonoNerdFontMono-Italic.woff2") format("woff2"),
+            url("fonts/UbuntuSansMonoNerdFontMono-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFM";
+    src:    local(UbuntuSansMonoNerdFontMono-Regular),
+            url("fonts/UbuntuSansMonoNerdFontMono-Regular.woff2") format("woff2"),
+            url("fonts/UbuntuSansMonoNerdFontMono-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFM";
+    src:    local(UbuntuSansMonoNerdFontMono-BoldItalic),
+            url("fonts/UbuntuSansMonoNerdFontMono-BoldItalic.woff2") format("woff2"),
+            url("fonts/UbuntuSansMonoNerdFontMono-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFM";
+    src:    local(UbuntuSansMonoNerdFontMono-Bold),
+            url("fonts/UbuntuSansMonoNerdFontMono-Bold.woff2") format("woff2"),
+            url("fonts/UbuntuSansMonoNerdFontMono-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFM";
+    src:    local(UbuntuSansMonoNerdFontMono-Italic),
+            url("fonts/UbuntuSansMonoNerdFontMono-Italic.woff2") format("woff2"),
+            url("fonts/UbuntuSansMonoNerdFontMono-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "UbuntuSansMono NFM";
+    src:    local(UbuntuSansMonoNerdFontMono-Regular),
+            url("fonts/UbuntuSansMonoNerdFontMono-Regular.woff2") format("woff2"),
+            url("fonts/UbuntuSansMonoNerdFontMono-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
