@@ -1,90 +1,72 @@
 @font-face {
     font-family: "RobotoMono Nerd Font";
-    src:    local(Roboto Mono Bold Italic Nerd Font Complete),
-            url("fonts/Roboto Mono Bold Italic Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/Roboto Mono Bold Italic Nerd Font Complete.ttf") format("truetype");
+    src:    local(RobotoMonoNerdFont-BoldItalic),
+            url("fonts/RobotoMonoNerdFont-BoldItalic.woff2") format("woff2"),
+            url("fonts/RobotoMonoNerdFont-BoldItalic.ttf") format("truetype");
     font-stretch: normal;
     font-style: italic;
     font-weight: 700;
 }
 @font-face {
     font-family: "RobotoMono Nerd Font";
-    src:    local(Roboto Mono Bold Nerd Font Complete),
-            url("fonts/Roboto Mono Bold Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/Roboto Mono Bold Nerd Font Complete.ttf") format("truetype");
+    src:    local(RobotoMonoNerdFont-Bold),
+            url("fonts/RobotoMonoNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/RobotoMonoNerdFont-Bold.ttf") format("truetype");
     font-stretch: normal;
     font-style: normal;
     font-weight: 700;
 }
 @font-face {
     font-family: "RobotoMono Nerd Font";
-    src:    local(Roboto Mono Italic Nerd Font Complete),
-            url("fonts/Roboto Mono Italic Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/Roboto Mono Italic Nerd Font Complete.ttf") format("truetype");
+    src:    local(RobotoMonoNerdFont-Italic),
+            url("fonts/RobotoMonoNerdFont-Italic.woff2") format("woff2"),
+            url("fonts/RobotoMonoNerdFont-Italic.ttf") format("truetype");
     font-stretch: normal;
     font-style: italic;
     font-weight: 400;
 }
 @font-face {
     font-family: "RobotoMono Nerd Font";
-    src:    local(Roboto Mono Light Italic Nerd Font Complete),
-            url("fonts/Roboto Mono Light Italic Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/Roboto Mono Light Italic Nerd Font Complete.ttf") format("truetype");
-    font-stretch: normal;
-    font-style: italic;
-    font-weight: 300;
-}
-@font-face {
-    font-family: "RobotoMono Nerd Font";
-    src:    local(Roboto Mono Light Nerd Font Complete),
-            url("fonts/Roboto Mono Light Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/Roboto Mono Light Nerd Font Complete.ttf") format("truetype");
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 300;
-}
-@font-face {
-    font-family: "RobotoMono Nerd Font";
-    src:    local(Roboto Mono Medium Italic Nerd Font Complete),
-            url("fonts/Roboto Mono Medium Italic Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/Roboto Mono Medium Italic Nerd Font Complete.ttf") format("truetype");
-    font-stretch: normal;
-    font-style: italic;
-    font-weight: 500;
-}
-@font-face {
-    font-family: "RobotoMono Nerd Font";
-    src:    local(Roboto Mono Medium Nerd Font Complete),
-            url("fonts/Roboto Mono Medium Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/Roboto Mono Medium Nerd Font Complete.ttf") format("truetype");
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 500;
-}
-@font-face {
-    font-family: "RobotoMono Nerd Font";
-    src:    local(Roboto Mono Nerd Font Complete),
-            url("fonts/Roboto Mono Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/Roboto Mono Nerd Font Complete.ttf") format("truetype");
+    src:    local(RobotoMonoNerdFont-Regular),
+            url("fonts/RobotoMonoNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/RobotoMonoNerdFont-Regular.ttf") format("truetype");
     font-stretch: normal;
     font-style: normal;
     font-weight: 400;
 }
 @font-face {
     font-family: "RobotoMono Nerd Font";
-    src:    local(Roboto Mono Thin Italic Nerd Font Complete),
-            url("fonts/Roboto Mono Thin Italic Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/Roboto Mono Thin Italic Nerd Font Complete.ttf") format("truetype");
+    src:    local(RobotoMonoNerdFont-BoldItalic),
+            url("fonts/RobotoMonoNerdFont-BoldItalic.woff2") format("woff2"),
+            url("fonts/RobotoMonoNerdFont-BoldItalic.ttf") format("truetype");
     font-stretch: normal;
     font-style: italic;
-    font-weight: 100;
+    font-weight: 700;
 }
 @font-face {
     font-family: "RobotoMono Nerd Font";
-    src:    local(Roboto Mono Thin Nerd Font Complete),
-            url("fonts/Roboto Mono Thin Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/Roboto Mono Thin Nerd Font Complete.ttf") format("truetype");
+    src:    local(RobotoMonoNerdFont-Bold),
+            url("fonts/RobotoMonoNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/RobotoMonoNerdFont-Bold.ttf") format("truetype");
     font-stretch: normal;
     font-style: normal;
-    font-weight: 100;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "RobotoMono Nerd Font";
+    src:    local(RobotoMonoNerdFont-Italic),
+            url("fonts/RobotoMonoNerdFont-Italic.woff2") format("woff2"),
+            url("fonts/RobotoMonoNerdFont-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "RobotoMono Nerd Font";
+    src:    local(RobotoMonoNerdFont-Regular),
+            url("fonts/RobotoMonoNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/RobotoMonoNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
 }

@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "RobotoMono Nerd Font SmBd";
+    src:    local(RobotoMonoNerdFont-SemiBoldItalic),
+            url("fonts/RobotoMonoNerdFont-SemiBoldItalic.woff2") format("woff2"),
+            url("fonts/RobotoMonoNerdFont-SemiBoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "RobotoMono Nerd Font SmBd";
+    src:    local(RobotoMonoNerdFont-SemiBold),
+            url("fonts/RobotoMonoNerdFont-SemiBold.woff2") format("woff2"),
+            url("fonts/RobotoMonoNerdFont-SemiBold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "RobotoMono Nerd Font SmBd";
+    src:    local(RobotoMonoNerdFont-SemiBoldItalic),
+            url("fonts/RobotoMonoNerdFont-SemiBoldItalic.woff2") format("woff2"),
+            url("fonts/RobotoMonoNerdFont-SemiBoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "RobotoMono Nerd Font SmBd";
+    src:    local(RobotoMonoNerdFont-SemiBold),
+            url("fonts/RobotoMonoNerdFont-SemiBold.woff2") format("woff2"),
+            url("fonts/RobotoMonoNerdFont-SemiBold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
