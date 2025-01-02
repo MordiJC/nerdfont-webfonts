@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "JetBrainsMonoNL NFM ExtraBold";
+    src:    local(JetBrainsMonoNLNerdFontMono-ExtraBoldItalic),
+            url("fonts/JetBrainsMonoNLNerdFontMono-ExtraBoldItalic.woff2") format("woff2"),
+            url("fonts/JetBrainsMonoNLNerdFontMono-ExtraBoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 800;
+}
+@font-face {
+    font-family: "JetBrainsMonoNL NFM ExtraBold";
+    src:    local(JetBrainsMonoNLNerdFontMono-ExtraBold),
+            url("fonts/JetBrainsMonoNLNerdFontMono-ExtraBold.woff2") format("woff2"),
+            url("fonts/JetBrainsMonoNLNerdFontMono-ExtraBold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 800;
+}
+@font-face {
+    font-family: "JetBrainsMonoNL NFM ExtraBold";
+    src:    local(JetBrainsMonoNLNerdFontMono-ExtraBoldItalic),
+            url("fonts/JetBrainsMonoNLNerdFontMono-ExtraBoldItalic.woff2") format("woff2"),
+            url("fonts/JetBrainsMonoNLNerdFontMono-ExtraBoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 800;
+}
+@font-face {
+    font-family: "JetBrainsMonoNL NFM ExtraBold";
+    src:    local(JetBrainsMonoNLNerdFontMono-ExtraBold),
+            url("fonts/JetBrainsMonoNLNerdFontMono-ExtraBold.woff2") format("woff2"),
+            url("fonts/JetBrainsMonoNLNerdFontMono-ExtraBold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 800;
+}
