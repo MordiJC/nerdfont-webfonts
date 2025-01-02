@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "LiterationSerif Nerd Font Propo";
+    src:    local(LiterationSerifNerdFontPropo-BoldItalic),
+            url("fonts/LiterationSerifNerdFontPropo-BoldItalic.woff2") format("woff2"),
+            url("fonts/LiterationSerifNerdFontPropo-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "LiterationSerif Nerd Font Propo";
+    src:    local(LiterationSerifNerdFontPropo-Bold),
+            url("fonts/LiterationSerifNerdFontPropo-Bold.woff2") format("woff2"),
+            url("fonts/LiterationSerifNerdFontPropo-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "LiterationSerif Nerd Font Propo";
+    src:    local(LiterationSerifNerdFontPropo-Italic),
+            url("fonts/LiterationSerifNerdFontPropo-Italic.woff2") format("woff2"),
+            url("fonts/LiterationSerifNerdFontPropo-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "LiterationSerif Nerd Font Propo";
+    src:    local(LiterationSerifNerdFontPropo-Regular),
+            url("fonts/LiterationSerifNerdFontPropo-Regular.woff2") format("woff2"),
+            url("fonts/LiterationSerifNerdFontPropo-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "LiterationSerif Nerd Font Propo";
+    src:    local(LiterationSerifNerdFontPropo-BoldItalic),
+            url("fonts/LiterationSerifNerdFontPropo-BoldItalic.woff2") format("woff2"),
+            url("fonts/LiterationSerifNerdFontPropo-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "LiterationSerif Nerd Font Propo";
+    src:    local(LiterationSerifNerdFontPropo-Bold),
+            url("fonts/LiterationSerifNerdFontPropo-Bold.woff2") format("woff2"),
+            url("fonts/LiterationSerifNerdFontPropo-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "LiterationSerif Nerd Font Propo";
+    src:    local(LiterationSerifNerdFontPropo-Italic),
+            url("fonts/LiterationSerifNerdFontPropo-Italic.woff2") format("woff2"),
+            url("fonts/LiterationSerifNerdFontPropo-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "LiterationSerif Nerd Font Propo";
+    src:    local(LiterationSerifNerdFontPropo-Regular),
+            url("fonts/LiterationSerifNerdFontPropo-Regular.woff2") format("woff2"),
+            url("fonts/LiterationSerifNerdFontPropo-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
