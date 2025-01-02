@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "SauceCodePro NF SemiBold";
+    src:    local(SauceCodeProNerdFont-SemiBoldItalic),
+            url("fonts/SauceCodeProNerdFont-SemiBoldItalic.woff2") format("woff2"),
+            url("fonts/SauceCodeProNerdFont-SemiBoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "SauceCodePro NF SemiBold";
+    src:    local(SauceCodeProNerdFont-SemiBold),
+            url("fonts/SauceCodeProNerdFont-SemiBold.woff2") format("woff2"),
+            url("fonts/SauceCodeProNerdFont-SemiBold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "SauceCodePro NF SemiBold";
+    src:    local(SauceCodeProNerdFont-SemiBoldItalic),
+            url("fonts/SauceCodeProNerdFont-SemiBoldItalic.woff2") format("woff2"),
+            url("fonts/SauceCodeProNerdFont-SemiBoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "SauceCodePro NF SemiBold";
+    src:    local(SauceCodeProNerdFont-SemiBold),
+            url("fonts/SauceCodeProNerdFont-SemiBold.woff2") format("woff2"),
+            url("fonts/SauceCodeProNerdFont-SemiBold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
