@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "M+2 Nerd Font Propo SemBd";
+    src:    local(M+2NerdFontPropo-SemiBold),
+            url("fonts/M+2NerdFontPropo-SemiBold.woff2") format("woff2"),
+            url("fonts/M+2NerdFontPropo-SemiBold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "mplus  Nerd Font Propo SemBd";
+    src:    local(M+2NerdFontPropo-SemiBold),
+            url("fonts/M+2NerdFontPropo-SemiBold.woff2") format("woff2"),
+            url("fonts/M+2NerdFontPropo-SemiBold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
