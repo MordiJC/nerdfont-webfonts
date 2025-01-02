@@ -1,4 +1,13 @@
-#!/bin/sh
+#!/usr/bin/env bash
+
+# Exit on error. Append "|| true" if you expect an error.
+set -o errexit
+# Exit on error inside any functions or subshells.
+set -o errtrace
+# Do not allow use of undefined vars. Use ${VAR:-} to use an undefined VAR
+set -o nounset
+# Catch the error in case mysqldump fails (but gzip succeeds) in `mysqldump | gzip`
+set -o pipefail
 
 _contains() {
 	[ "${1#*$2}" != "$1" ] && return 0 || return 1
@@ -80,11 +89,13 @@ _main() {
 		name=${url##*/}
 		base=${name%.*}
 
-		[ -n "$UPGRADE" ] && curl -LO "$url"
+    if ! [[ "$name" =~ &.*\.(zip|tar\.[a-zA-Z0-9]+)$ ]]; then continue ; fi
+
+		[ -n "$UPGRADE" ] && curl -LO "$url" -z "$name"
 
 		if [ -n "$EXTRACT" ]
 		then
-			aunpack "$name"
+			if ! aunpack "$name"; then continue fi
 			find "$name" -type f -iname "*Windows Compatible*" -delete
 			find "$name" -type f -iname "*.otf" -delete
 		fi
@@ -134,6 +145,13 @@ EOF
 		fi
 	done
 }
+
+CONVERT=0
+EXTRACT=0
+GENERATE=0
+UPGRADE=0
+FONTDIR=""
+TOKEN=""
 
 while getopts 'acef:ght:u' o
 do
