@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "GeistMono NFM";
+    src:    local(GeistMonoNerdFontMono-Bold),
+            url("fonts/GeistMonoNerdFontMono-Bold.woff2") format("woff2"),
+            url("fonts/GeistMonoNerdFontMono-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "GeistMono NFM";
+    src:    local(GeistMonoNerdFontMono-Regular),
+            url("fonts/GeistMonoNerdFontMono-Regular.woff2") format("woff2"),
+            url("fonts/GeistMonoNerdFontMono-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "GeistMono NFM";
+    src:    local(GeistMonoNerdFontMono-Bold),
+            url("fonts/GeistMonoNerdFontMono-Bold.woff2") format("woff2"),
+            url("fonts/GeistMonoNerdFontMono-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "GeistMono NFM";
+    src:    local(GeistMonoNerdFontMono-Regular),
+            url("fonts/GeistMonoNerdFontMono-Regular.woff2") format("woff2"),
+            url("fonts/GeistMonoNerdFontMono-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

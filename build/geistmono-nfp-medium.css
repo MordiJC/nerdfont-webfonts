@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "GeistMono NFP Medium";
+    src:    local(GeistMonoNerdFontPropo-Medium),
+            url("fonts/GeistMonoNerdFontPropo-Medium.woff2") format("woff2"),
+            url("fonts/GeistMonoNerdFontPropo-Medium.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "GeistMono NFP Medium";
+    src:    local(GeistMonoNerdFontPropo-Medium),
+            url("fonts/GeistMonoNerdFontPropo-Medium.woff2") format("woff2"),
+            url("fonts/GeistMonoNerdFontPropo-Medium.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}

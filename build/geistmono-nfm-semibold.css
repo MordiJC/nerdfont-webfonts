@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "GeistMono NFM SemiBold";
+    src:    local(GeistMonoNerdFontMono-SemiBold),
+            url("fonts/GeistMonoNerdFontMono-SemiBold.woff2") format("woff2"),
+            url("fonts/GeistMonoNerdFontMono-SemiBold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "GeistMono NFM SemiBold";
+    src:    local(GeistMonoNerdFontMono-SemiBold),
+            url("fonts/GeistMonoNerdFontMono-SemiBold.woff2") format("woff2"),
+            url("fonts/GeistMonoNerdFontMono-SemiBold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}

@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "GeistMono NFP UltraLight";
+    src:    local(GeistMonoNerdFontPropo-UltraLight),
+            url("fonts/GeistMonoNerdFontPropo-UltraLight.woff2") format("woff2"),
+            url("fonts/GeistMonoNerdFontPropo-UltraLight.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "GeistMono NFP UltraLight";
+    src:    local(GeistMonoNerdFontPropo-UltraLight),
+            url("fonts/GeistMonoNerdFontPropo-UltraLight.woff2") format("woff2"),
+            url("fonts/GeistMonoNerdFontPropo-UltraLight.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}

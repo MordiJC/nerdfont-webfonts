@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "GeistMono NF";
+    src:    local(GeistMonoNerdFont-Bold),
+            url("fonts/GeistMonoNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/GeistMonoNerdFont-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "GeistMono NF";
+    src:    local(GeistMonoNerdFont-Regular),
+            url("fonts/GeistMonoNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/GeistMonoNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "GeistMono NF";
+    src:    local(GeistMonoNerdFont-Bold),
+            url("fonts/GeistMonoNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/GeistMonoNerdFont-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "GeistMono NF";
+    src:    local(GeistMonoNerdFont-Regular),
+            url("fonts/GeistMonoNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/GeistMonoNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

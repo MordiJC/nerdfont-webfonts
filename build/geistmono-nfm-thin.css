@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "GeistMono NFM Thin";
+    src:    local(GeistMonoNerdFontMono-Thin),
+            url("fonts/GeistMonoNerdFontMono-Thin.woff2") format("woff2"),
+            url("fonts/GeistMonoNerdFontMono-Thin.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "GeistMono NFM Thin";
+    src:    local(GeistMonoNerdFontMono-Thin),
+            url("fonts/GeistMonoNerdFontMono-Thin.woff2") format("woff2"),
+            url("fonts/GeistMonoNerdFontMono-Thin.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 100;
+}

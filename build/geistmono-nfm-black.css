@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "GeistMono NFM Black";
+    src:    local(GeistMonoNerdFontMono-Black),
+            url("fonts/GeistMonoNerdFontMono-Black.woff2") format("woff2"),
+            url("fonts/GeistMonoNerdFontMono-Black.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "GeistMono NFM Black";
+    src:    local(GeistMonoNerdFontMono-Black),
+            url("fonts/GeistMonoNerdFontMono-Black.woff2") format("woff2"),
+            url("fonts/GeistMonoNerdFontMono-Black.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 900;
+}
