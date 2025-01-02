@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "BlexMono Nerd Font Propo";
+    src:    local(BlexMonoNerdFontPropo-BoldItalic),
+            url("fonts/BlexMonoNerdFontPropo-BoldItalic.woff2") format("woff2"),
+            url("fonts/BlexMonoNerdFontPropo-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font Propo";
+    src:    local(BlexMonoNerdFontPropo-Bold),
+            url("fonts/BlexMonoNerdFontPropo-Bold.woff2") format("woff2"),
+            url("fonts/BlexMonoNerdFontPropo-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font Propo";
+    src:    local(BlexMonoNerdFontPropo-Italic),
+            url("fonts/BlexMonoNerdFontPropo-Italic.woff2") format("woff2"),
+            url("fonts/BlexMonoNerdFontPropo-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font Propo";
+    src:    local(BlexMonoNerdFontPropo-Regular),
+            url("fonts/BlexMonoNerdFontPropo-Regular.woff2") format("woff2"),
+            url("fonts/BlexMonoNerdFontPropo-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font Propo";
+    src:    local(BlexMonoNerdFontPropo-BoldItalic),
+            url("fonts/BlexMonoNerdFontPropo-BoldItalic.woff2") format("woff2"),
+            url("fonts/BlexMonoNerdFontPropo-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font Propo";
+    src:    local(BlexMonoNerdFontPropo-Bold),
+            url("fonts/BlexMonoNerdFontPropo-Bold.woff2") format("woff2"),
+            url("fonts/BlexMonoNerdFontPropo-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font Propo";
+    src:    local(BlexMonoNerdFontPropo-Italic),
+            url("fonts/BlexMonoNerdFontPropo-Italic.woff2") format("woff2"),
+            url("fonts/BlexMonoNerdFontPropo-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "BlexMono Nerd Font Propo";
+    src:    local(BlexMonoNerdFontPropo-Regular),
+            url("fonts/BlexMonoNerdFontPropo-Regular.woff2") format("woff2"),
+            url("fonts/BlexMonoNerdFontPropo-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
