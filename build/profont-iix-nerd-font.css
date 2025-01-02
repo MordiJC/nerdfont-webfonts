@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "ProFont IIx Nerd Font";
+    src:    local(ProFontIIxNerdFont-Regular),
+            url("fonts/ProFontIIxNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/ProFontIIxNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ProFont IIx Nerd Font";
+    src:    local(ProFontIIxNerdFont-Regular),
+            url("fonts/ProFontIIxNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/ProFontIIxNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
