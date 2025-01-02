@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "MonaspiceNe NFP Medium";
+    src:    local(MonaspiceNeNerdFontPropo-MediumItalic),
+            url("fonts/MonaspiceNeNerdFontPropo-MediumItalic.woff2") format("woff2"),
+            url("fonts/MonaspiceNeNerdFontPropo-MediumItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceNe NFP Medium";
+    src:    local(MonaspiceNeNerdFontPropo-Medium),
+            url("fonts/MonaspiceNeNerdFontPropo-Medium.woff2") format("woff2"),
+            url("fonts/MonaspiceNeNerdFontPropo-Medium.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceNe NFP Medium";
+    src:    local(MonaspiceNeNerdFontPropo-MediumItalic),
+            url("fonts/MonaspiceNeNerdFontPropo-MediumItalic.woff2") format("woff2"),
+            url("fonts/MonaspiceNeNerdFontPropo-MediumItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MonaspiceNe NFP Medium";
+    src:    local(MonaspiceNeNerdFontPropo-Medium),
+            url("fonts/MonaspiceNeNerdFontPropo-Medium.woff2") format("woff2"),
+            url("fonts/MonaspiceNeNerdFontPropo-Medium.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 500;
+}
