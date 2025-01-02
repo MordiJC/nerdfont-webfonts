@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "MartianMono NFP Cond Med";
+    src:    local(MartianMonoNerdFontPropo-CondensedMedium),
+            url("fonts/MartianMonoNerdFontPropo-CondensedMedium.woff2") format("woff2"),
+            url("fonts/MartianMonoNerdFontPropo-CondensedMedium.ttf") format("truetype");
+    font-stretch: condensed;
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "MartianMono NFP Cond Med";
+    src:    local(MartianMonoNerdFontPropo-CondensedMedium),
+            url("fonts/MartianMonoNerdFontPropo-CondensedMedium.woff2") format("woff2"),
+            url("fonts/MartianMonoNerdFontPropo-CondensedMedium.ttf") format("truetype");
+    font-stretch: condensed;
+    font-style: normal;
+    font-weight: 500;
+}

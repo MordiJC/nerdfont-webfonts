@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "MartianMono NFM Cond";
+    src:    local(MartianMonoNerdFontMono-CondensedBold),
+            url("fonts/MartianMonoNerdFontMono-CondensedBold.woff2") format("woff2"),
+            url("fonts/MartianMonoNerdFontMono-CondensedBold.ttf") format("truetype");
+    font-stretch: condensed;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MartianMono NFM Cond";
+    src:    local(MartianMonoNerdFontMono-CondensedRegular),
+            url("fonts/MartianMonoNerdFontMono-CondensedRegular.woff2") format("woff2"),
+            url("fonts/MartianMonoNerdFontMono-CondensedRegular.ttf") format("truetype");
+    font-stretch: condensed;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MartianMono NFM Cond";
+    src:    local(MartianMonoNerdFontMono-CondensedBold),
+            url("fonts/MartianMonoNerdFontMono-CondensedBold.woff2") format("woff2"),
+            url("fonts/MartianMonoNerdFontMono-CondensedBold.ttf") format("truetype");
+    font-stretch: condensed;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MartianMono NFM Cond";
+    src:    local(MartianMonoNerdFontMono-CondensedRegular),
+            url("fonts/MartianMonoNerdFontMono-CondensedRegular.woff2") format("woff2"),
+            url("fonts/MartianMonoNerdFontMono-CondensedRegular.ttf") format("truetype");
+    font-stretch: condensed;
+    font-style: normal;
+    font-weight: 400;
+}
