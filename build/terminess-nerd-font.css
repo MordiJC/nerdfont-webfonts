@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "Terminess Nerd Font";
+    src:    local(TerminessNerdFont-BoldItalic),
+            url("fonts/TerminessNerdFont-BoldItalic.woff2") format("woff2"),
+            url("fonts/TerminessNerdFont-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Terminess Nerd Font";
+    src:    local(TerminessNerdFont-Bold),
+            url("fonts/TerminessNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/TerminessNerdFont-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Terminess Nerd Font";
+    src:    local(TerminessNerdFont-Italic),
+            url("fonts/TerminessNerdFont-Italic.woff2") format("woff2"),
+            url("fonts/TerminessNerdFont-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Terminess Nerd Font";
+    src:    local(TerminessNerdFont-Regular),
+            url("fonts/TerminessNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/TerminessNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Terminess Nerd Font";
+    src:    local(TerminessNerdFont-BoldItalic),
+            url("fonts/TerminessNerdFont-BoldItalic.woff2") format("woff2"),
+            url("fonts/TerminessNerdFont-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Terminess Nerd Font";
+    src:    local(TerminessNerdFont-Bold),
+            url("fonts/TerminessNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/TerminessNerdFont-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Terminess Nerd Font";
+    src:    local(TerminessNerdFont-Italic),
+            url("fonts/TerminessNerdFont-Italic.woff2") format("woff2"),
+            url("fonts/TerminessNerdFont-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Terminess Nerd Font";
+    src:    local(TerminessNerdFont-Regular),
+            url("fonts/TerminessNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/TerminessNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
