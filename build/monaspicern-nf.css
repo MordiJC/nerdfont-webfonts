@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "MonaspiceRn NF";
+    src:    local(MonaspiceRnNerdFont-BoldItalic),
+            url("fonts/MonaspiceRnNerdFont-BoldItalic.woff2") format("woff2"),
+            url("fonts/MonaspiceRnNerdFont-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceRn NF";
+    src:    local(MonaspiceRnNerdFont-Bold),
+            url("fonts/MonaspiceRnNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/MonaspiceRnNerdFont-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceRn NF";
+    src:    local(MonaspiceRnNerdFont-Italic),
+            url("fonts/MonaspiceRnNerdFont-Italic.woff2") format("woff2"),
+            url("fonts/MonaspiceRnNerdFont-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceRn NF";
+    src:    local(MonaspiceRnNerdFont-Regular),
+            url("fonts/MonaspiceRnNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/MonaspiceRnNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceRn NF";
+    src:    local(MonaspiceRnNerdFont-BoldItalic),
+            url("fonts/MonaspiceRnNerdFont-BoldItalic.woff2") format("woff2"),
+            url("fonts/MonaspiceRnNerdFont-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceRn NF";
+    src:    local(MonaspiceRnNerdFont-Bold),
+            url("fonts/MonaspiceRnNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/MonaspiceRnNerdFont-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "MonaspiceRn NF";
+    src:    local(MonaspiceRnNerdFont-Italic),
+            url("fonts/MonaspiceRnNerdFont-Italic.woff2") format("woff2"),
+            url("fonts/MonaspiceRnNerdFont-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "MonaspiceRn NF";
+    src:    local(MonaspiceRnNerdFont-Regular),
+            url("fonts/MonaspiceRnNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/MonaspiceRnNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
