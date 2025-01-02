@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "Hurmit Nerd Font Mono";
+    src:    local(HurmitNerdFontMono-BoldItalic),
+            url("fonts/HurmitNerdFontMono-BoldItalic.woff2") format("woff2"),
+            url("fonts/HurmitNerdFontMono-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Hurmit Nerd Font Mono";
+    src:    local(HurmitNerdFontMono-Bold),
+            url("fonts/HurmitNerdFontMono-Bold.woff2") format("woff2"),
+            url("fonts/HurmitNerdFontMono-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Hurmit Nerd Font Mono";
+    src:    local(HurmitNerdFontMono-Italic),
+            url("fonts/HurmitNerdFontMono-Italic.woff2") format("woff2"),
+            url("fonts/HurmitNerdFontMono-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Hurmit Nerd Font Mono";
+    src:    local(HurmitNerdFontMono-Regular),
+            url("fonts/HurmitNerdFontMono-Regular.woff2") format("woff2"),
+            url("fonts/HurmitNerdFontMono-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Hurmit Nerd Font Mono";
+    src:    local(HurmitNerdFontMono-BoldItalic),
+            url("fonts/HurmitNerdFontMono-BoldItalic.woff2") format("woff2"),
+            url("fonts/HurmitNerdFontMono-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Hurmit Nerd Font Mono";
+    src:    local(HurmitNerdFontMono-Bold),
+            url("fonts/HurmitNerdFontMono-Bold.woff2") format("woff2"),
+            url("fonts/HurmitNerdFontMono-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Hurmit Nerd Font Mono";
+    src:    local(HurmitNerdFontMono-Italic),
+            url("fonts/HurmitNerdFontMono-Italic.woff2") format("woff2"),
+            url("fonts/HurmitNerdFontMono-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Hurmit Nerd Font Mono";
+    src:    local(HurmitNerdFontMono-Regular),
+            url("fonts/HurmitNerdFontMono-Regular.woff2") format("woff2"),
+            url("fonts/HurmitNerdFontMono-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

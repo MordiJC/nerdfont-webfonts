@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "Hurmit Nerd Font Light";
+    src:    local(HurmitNerdFont-LightItalic),
+            url("fonts/HurmitNerdFont-LightItalic.woff2") format("woff2"),
+            url("fonts/HurmitNerdFont-LightItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Hurmit Nerd Font Light";
+    src:    local(HurmitNerdFont-Light),
+            url("fonts/HurmitNerdFont-Light.woff2") format("woff2"),
+            url("fonts/HurmitNerdFont-Light.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Hurmit Nerd Font Light";
+    src:    local(HurmitNerdFont-LightItalic),
+            url("fonts/HurmitNerdFont-LightItalic.woff2") format("woff2"),
+            url("fonts/HurmitNerdFont-LightItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Hurmit Nerd Font Light";
+    src:    local(HurmitNerdFont-Light),
+            url("fonts/HurmitNerdFont-Light.woff2") format("woff2"),
+            url("fonts/HurmitNerdFont-Light.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
