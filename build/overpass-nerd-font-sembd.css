@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "Overpass Nerd Font SemBd";
+    src:    local(OverpassNerdFont-SemiBoldItalic),
+            url("fonts/OverpassNerdFont-SemiBoldItalic.woff2") format("woff2"),
+            url("fonts/OverpassNerdFont-SemiBoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Overpass Nerd Font SemBd";
+    src:    local(OverpassNerdFont-SemiBold),
+            url("fonts/OverpassNerdFont-SemiBold.woff2") format("woff2"),
+            url("fonts/OverpassNerdFont-SemiBold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Overpass Nerd Font SemBd";
+    src:    local(OverpassNerdFont-SemiBoldItalic),
+            url("fonts/OverpassNerdFont-SemiBoldItalic.woff2") format("woff2"),
+            url("fonts/OverpassNerdFont-SemiBoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Overpass Nerd Font SemBd";
+    src:    local(OverpassNerdFont-SemiBold),
+            url("fonts/OverpassNerdFont-SemiBold.woff2") format("woff2"),
+            url("fonts/OverpassNerdFont-SemiBold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+}

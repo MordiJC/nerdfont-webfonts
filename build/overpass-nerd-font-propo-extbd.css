@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "Overpass Nerd Font Propo ExtBd";
+    src:    local(OverpassNerdFontPropo-ExtraBoldItalic),
+            url("fonts/OverpassNerdFontPropo-ExtraBoldItalic.woff2") format("woff2"),
+            url("fonts/OverpassNerdFontPropo-ExtraBoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 800;
+}
+@font-face {
+    font-family: "Overpass Nerd Font Propo ExtBd";
+    src:    local(OverpassNerdFontPropo-ExtraBold),
+            url("fonts/OverpassNerdFontPropo-ExtraBold.woff2") format("woff2"),
+            url("fonts/OverpassNerdFontPropo-ExtraBold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 800;
+}
+@font-face {
+    font-family: "Overpass Nerd Font Propo ExtBd";
+    src:    local(OverpassNerdFontPropo-ExtraBoldItalic),
+            url("fonts/OverpassNerdFontPropo-ExtraBoldItalic.woff2") format("woff2"),
+            url("fonts/OverpassNerdFontPropo-ExtraBoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 800;
+}
+@font-face {
+    font-family: "Overpass Nerd Font Propo ExtBd";
+    src:    local(OverpassNerdFontPropo-ExtraBold),
+            url("fonts/OverpassNerdFontPropo-ExtraBold.woff2") format("woff2"),
+            url("fonts/OverpassNerdFontPropo-ExtraBold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 800;
+}

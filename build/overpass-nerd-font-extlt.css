@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "Overpass Nerd Font ExtLt";
+    src:    local(OverpassNerdFont-ExtraLightItalic),
+            url("fonts/OverpassNerdFont-ExtraLightItalic.woff2") format("woff2"),
+            url("fonts/OverpassNerdFont-ExtraLightItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "Overpass Nerd Font ExtLt";
+    src:    local(OverpassNerdFont-ExtraLight),
+            url("fonts/OverpassNerdFont-ExtraLight.woff2") format("woff2"),
+            url("fonts/OverpassNerdFont-ExtraLight.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "Overpass Nerd Font ExtLt";
+    src:    local(OverpassNerdFont-ExtraLightItalic),
+            url("fonts/OverpassNerdFont-ExtraLightItalic.woff2") format("woff2"),
+            url("fonts/OverpassNerdFont-ExtraLightItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 200;
+}
+@font-face {
+    font-family: "Overpass Nerd Font ExtLt";
+    src:    local(OverpassNerdFont-ExtraLight),
+            url("fonts/OverpassNerdFont-ExtraLight.woff2") format("woff2"),
+            url("fonts/OverpassNerdFont-ExtraLight.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 200;
+}
