@@ -1,0 +1,54 @@
+@font-face {
+    font-family: "Monofur Nerd Font Propo";
+    src:    local(MonofurNerdFontPropo-Bold),
+            url("fonts/MonofurNerdFontPropo-Bold.woff2") format("woff2"),
+            url("fonts/MonofurNerdFontPropo-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Monofur Nerd Font Propo";
+    src:    local(MonofurNerdFontPropo-Italic),
+            url("fonts/MonofurNerdFontPropo-Italic.woff2") format("woff2"),
+            url("fonts/MonofurNerdFontPropo-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Monofur Nerd Font Propo";
+    src:    local(MonofurNerdFontPropo-Regular),
+            url("fonts/MonofurNerdFontPropo-Regular.woff2") format("woff2"),
+            url("fonts/MonofurNerdFontPropo-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Monofur Nerd Font Propo";
+    src:    local(MonofurNerdFontPropo-Bold),
+            url("fonts/MonofurNerdFontPropo-Bold.woff2") format("woff2"),
+            url("fonts/MonofurNerdFontPropo-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Monofur Nerd Font Propo";
+    src:    local(MonofurNerdFontPropo-Italic),
+            url("fonts/MonofurNerdFontPropo-Italic.woff2") format("woff2"),
+            url("fonts/MonofurNerdFontPropo-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Monofur Nerd Font Propo";
+    src:    local(MonofurNerdFontPropo-Regular),
+            url("fonts/MonofurNerdFontPropo-Regular.woff2") format("woff2"),
+            url("fonts/MonofurNerdFontPropo-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}

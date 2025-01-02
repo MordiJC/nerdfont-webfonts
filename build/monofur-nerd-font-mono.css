@@ -1,8 +1,53 @@
 @font-face {
     font-family: "Monofur Nerd Font Mono";
-    src:    local(monofur Nerd Font Complete Mono),
-            url("fonts/monofur Nerd Font Complete Mono.woff2") format("woff2"),
-            url("fonts/monofur Nerd Font Complete Mono.ttf") format("truetype");
+    src:    local(MonofurNerdFontMono-Bold),
+            url("fonts/MonofurNerdFontMono-Bold.woff2") format("woff2"),
+            url("fonts/MonofurNerdFontMono-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Monofur Nerd Font Mono";
+    src:    local(MonofurNerdFontMono-Italic),
+            url("fonts/MonofurNerdFontMono-Italic.woff2") format("woff2"),
+            url("fonts/MonofurNerdFontMono-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Monofur Nerd Font Mono";
+    src:    local(MonofurNerdFontMono-Regular),
+            url("fonts/MonofurNerdFontMono-Regular.woff2") format("woff2"),
+            url("fonts/MonofurNerdFontMono-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Monofur Nerd Font Mono";
+    src:    local(MonofurNerdFontMono-Bold),
+            url("fonts/MonofurNerdFontMono-Bold.woff2") format("woff2"),
+            url("fonts/MonofurNerdFontMono-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Monofur Nerd Font Mono";
+    src:    local(MonofurNerdFontMono-Italic),
+            url("fonts/MonofurNerdFontMono-Italic.woff2") format("woff2"),
+            url("fonts/MonofurNerdFontMono-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Monofur Nerd Font Mono";
+    src:    local(MonofurNerdFontMono-Regular),
+            url("fonts/MonofurNerdFontMono-Regular.woff2") format("woff2"),
+            url("fonts/MonofurNerdFontMono-Regular.ttf") format("truetype");
     font-stretch: normal;
     font-style: normal;
     font-weight: 400;

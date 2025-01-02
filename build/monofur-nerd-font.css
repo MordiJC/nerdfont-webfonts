@@ -1,8 +1,53 @@
 @font-face {
     font-family: "Monofur Nerd Font";
-    src:    local(monofur Nerd Font Complete),
-            url("fonts/monofur Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/monofur Nerd Font Complete.ttf") format("truetype");
+    src:    local(MonofurNerdFont-Bold),
+            url("fonts/MonofurNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/MonofurNerdFont-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Monofur Nerd Font";
+    src:    local(MonofurNerdFont-Italic),
+            url("fonts/MonofurNerdFont-Italic.woff2") format("woff2"),
+            url("fonts/MonofurNerdFont-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Monofur Nerd Font";
+    src:    local(MonofurNerdFont-Regular),
+            url("fonts/MonofurNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/MonofurNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Monofur Nerd Font";
+    src:    local(MonofurNerdFont-Bold),
+            url("fonts/MonofurNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/MonofurNerdFont-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Monofur Nerd Font";
+    src:    local(MonofurNerdFont-Italic),
+            url("fonts/MonofurNerdFont-Italic.woff2") format("woff2"),
+            url("fonts/MonofurNerdFont-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Monofur Nerd Font";
+    src:    local(MonofurNerdFont-Regular),
+            url("fonts/MonofurNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/MonofurNerdFont-Regular.ttf") format("truetype");
     font-stretch: normal;
     font-style: normal;
     font-weight: 400;
