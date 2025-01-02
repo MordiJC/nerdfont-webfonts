@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "ProFontWindows Nerd Font Propo";
+    src:    local(ProFontWindowsNerdFontPropo-Regular),
+            url("fonts/ProFontWindowsNerdFontPropo-Regular.woff2") format("woff2"),
+            url("fonts/ProFontWindowsNerdFontPropo-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "ProFontWindows Nerd Font Propo";
+    src:    local(ProFontWindowsNerdFontPropo-Regular),
+            url("fonts/ProFontWindowsNerdFontPropo-Regular.woff2") format("woff2"),
+            url("fonts/ProFontWindowsNerdFontPropo-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
