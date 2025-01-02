@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Symbols Nerd Font Mono";
+    src:    local(SymbolsNerdFontMono-Regular),
+            url("fonts/SymbolsNerdFontMono-Regular.woff2") format("woff2"),
+            url("fonts/SymbolsNerdFontMono-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Symbols Nerd Font Mono";
+    src:    local(SymbolsNerdFontMono-Regular),
+            url("fonts/SymbolsNerdFontMono-Regular.woff2") format("woff2"),
+            url("fonts/SymbolsNerdFontMono-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
