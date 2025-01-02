@@ -1,35 +1,71 @@
 @font-face {
     font-family: "Hack Nerd Font";
-    src:    local(Hack Bold Italic Nerd Font Complete),
-            url("fonts/Hack Bold Italic Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/Hack Bold Italic Nerd Font Complete.ttf") format("truetype");
+    src:    local(HackNerdFont-BoldItalic),
+            url("fonts/HackNerdFont-BoldItalic.woff2") format("woff2"),
+            url("fonts/HackNerdFont-BoldItalic.ttf") format("truetype");
     font-stretch: normal;
     font-style: italic;
     font-weight: 700;
 }
 @font-face {
     font-family: "Hack Nerd Font";
-    src:    local(Hack Bold Nerd Font Complete),
-            url("fonts/Hack Bold Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/Hack Bold Nerd Font Complete.ttf") format("truetype");
+    src:    local(HackNerdFont-Bold),
+            url("fonts/HackNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/HackNerdFont-Bold.ttf") format("truetype");
     font-stretch: normal;
     font-style: normal;
     font-weight: 700;
 }
 @font-face {
     font-family: "Hack Nerd Font";
-    src:    local(Hack Italic Nerd Font Complete),
-            url("fonts/Hack Italic Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/Hack Italic Nerd Font Complete.ttf") format("truetype");
+    src:    local(HackNerdFont-Italic),
+            url("fonts/HackNerdFont-Italic.woff2") format("woff2"),
+            url("fonts/HackNerdFont-Italic.ttf") format("truetype");
     font-stretch: normal;
     font-style: italic;
     font-weight: 400;
 }
 @font-face {
     font-family: "Hack Nerd Font";
-    src:    local(Hack Regular Nerd Font Complete),
-            url("fonts/Hack Regular Nerd Font Complete.woff2") format("woff2"),
-            url("fonts/Hack Regular Nerd Font Complete.ttf") format("truetype");
+    src:    local(HackNerdFont-Regular),
+            url("fonts/HackNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/HackNerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Hack Nerd Font";
+    src:    local(HackNerdFont-BoldItalic),
+            url("fonts/HackNerdFont-BoldItalic.woff2") format("woff2"),
+            url("fonts/HackNerdFont-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Hack Nerd Font";
+    src:    local(HackNerdFont-Bold),
+            url("fonts/HackNerdFont-Bold.woff2") format("woff2"),
+            url("fonts/HackNerdFont-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Hack Nerd Font";
+    src:    local(HackNerdFont-Italic),
+            url("fonts/HackNerdFont-Italic.woff2") format("woff2"),
+            url("fonts/HackNerdFont-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Hack Nerd Font";
+    src:    local(HackNerdFont-Regular),
+            url("fonts/HackNerdFont-Regular.woff2") format("woff2"),
+            url("fonts/HackNerdFont-Regular.ttf") format("truetype");
     font-stretch: normal;
     font-style: normal;
     font-weight: 400;
