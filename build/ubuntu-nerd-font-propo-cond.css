@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Ubuntu Nerd Font Propo Cond";
+    src:    local(UbuntuNerdFontPropo-Condensed),
+            url("fonts/UbuntuNerdFontPropo-Condensed.woff2") format("woff2"),
+            url("fonts/UbuntuNerdFontPropo-Condensed.ttf") format("truetype");
+    font-stretch: condensed;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Ubuntu Nerd Font Propo Cond";
+    src:    local(UbuntuNerdFontPropo-Condensed),
+            url("fonts/UbuntuNerdFontPropo-Condensed.woff2") format("woff2"),
+            url("fonts/UbuntuNerdFontPropo-Condensed.ttf") format("truetype");
+    font-stretch: condensed;
+    font-style: normal;
+    font-weight: 400;
+}

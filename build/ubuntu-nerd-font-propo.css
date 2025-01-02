@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "Ubuntu Nerd Font Propo";
+    src:    local(UbuntuNerdFontPropo-BoldItalic),
+            url("fonts/UbuntuNerdFontPropo-BoldItalic.woff2") format("woff2"),
+            url("fonts/UbuntuNerdFontPropo-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Ubuntu Nerd Font Propo";
+    src:    local(UbuntuNerdFontPropo-Bold),
+            url("fonts/UbuntuNerdFontPropo-Bold.woff2") format("woff2"),
+            url("fonts/UbuntuNerdFontPropo-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Ubuntu Nerd Font Propo";
+    src:    local(UbuntuNerdFontPropo-Italic),
+            url("fonts/UbuntuNerdFontPropo-Italic.woff2") format("woff2"),
+            url("fonts/UbuntuNerdFontPropo-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Ubuntu Nerd Font Propo";
+    src:    local(UbuntuNerdFontPropo-Regular),
+            url("fonts/UbuntuNerdFontPropo-Regular.woff2") format("woff2"),
+            url("fonts/UbuntuNerdFontPropo-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Ubuntu Nerd Font Propo";
+    src:    local(UbuntuNerdFontPropo-BoldItalic),
+            url("fonts/UbuntuNerdFontPropo-BoldItalic.woff2") format("woff2"),
+            url("fonts/UbuntuNerdFontPropo-BoldItalic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Ubuntu Nerd Font Propo";
+    src:    local(UbuntuNerdFontPropo-Bold),
+            url("fonts/UbuntuNerdFontPropo-Bold.woff2") format("woff2"),
+            url("fonts/UbuntuNerdFontPropo-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Ubuntu Nerd Font Propo";
+    src:    local(UbuntuNerdFontPropo-Italic),
+            url("fonts/UbuntuNerdFontPropo-Italic.woff2") format("woff2"),
+            url("fonts/UbuntuNerdFontPropo-Italic.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Ubuntu Nerd Font Propo";
+    src:    local(UbuntuNerdFontPropo-Regular),
+            url("fonts/UbuntuNerdFontPropo-Regular.woff2") format("woff2"),
+            url("fonts/UbuntuNerdFontPropo-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
