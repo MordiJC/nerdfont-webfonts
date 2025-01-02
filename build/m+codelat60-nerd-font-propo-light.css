@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "M+CodeLat60 Nerd Font Propo Light";
+    src:    local(M+CodeLat60NerdFontPropo-Light),
+            url("fonts/M+CodeLat60NerdFontPropo-Light.woff2") format("woff2"),
+            url("fonts/M+CodeLat60NerdFontPropo-Light.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "mplus  Nerd Font Propo Light";
+    src:    local(M+CodeLat60NerdFontPropo-Light),
+            url("fonts/M+CodeLat60NerdFontPropo-Light.woff2") format("woff2"),
+            url("fonts/M+CodeLat60NerdFontPropo-Light.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+}
