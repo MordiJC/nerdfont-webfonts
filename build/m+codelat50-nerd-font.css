@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "M+CodeLat50 Nerd Font";
+    src:    local(M+CodeLat50NerdFont-Bold),
+            url("fonts/M+CodeLat50NerdFont-Bold.woff2") format("woff2"),
+            url("fonts/M+CodeLat50NerdFont-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "M+CodeLat50 Nerd Font";
+    src:    local(M+CodeLat50NerdFont-Regular),
+            url("fonts/M+CodeLat50NerdFont-Regular.woff2") format("woff2"),
+            url("fonts/M+CodeLat50NerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "mplus  Nerd Font";
+    src:    local(M+CodeLat50NerdFont-Bold),
+            url("fonts/M+CodeLat50NerdFont-Bold.woff2") format("woff2"),
+            url("fonts/M+CodeLat50NerdFont-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "mplus  Nerd Font";
+    src:    local(M+CodeLat50NerdFont-Regular),
+            url("fonts/M+CodeLat50NerdFont-Regular.woff2") format("woff2"),
+            url("fonts/M+CodeLat50NerdFont-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
