@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "Inconsolata Nerd Font Propo";
+    src:    local(InconsolataNerdFontPropo-Bold),
+            url("fonts/InconsolataNerdFontPropo-Bold.woff2") format("woff2"),
+            url("fonts/InconsolataNerdFontPropo-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Inconsolata Nerd Font Propo";
+    src:    local(InconsolataNerdFontPropo-Regular),
+            url("fonts/InconsolataNerdFontPropo-Regular.woff2") format("woff2"),
+            url("fonts/InconsolataNerdFontPropo-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Inconsolata Nerd Font Propo";
+    src:    local(InconsolataNerdFontPropo-Bold),
+            url("fonts/InconsolataNerdFontPropo-Bold.woff2") format("woff2"),
+            url("fonts/InconsolataNerdFontPropo-Bold.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Inconsolata Nerd Font Propo";
+    src:    local(InconsolataNerdFontPropo-Regular),
+            url("fonts/InconsolataNerdFontPropo-Regular.woff2") format("woff2"),
+            url("fonts/InconsolataNerdFontPropo-Regular.ttf") format("truetype");
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+}
